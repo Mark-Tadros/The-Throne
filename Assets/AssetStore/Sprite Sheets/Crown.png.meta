@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: 478d4d131ace06645a6147c636628935
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1867668012461913227
+    second: Crown spritesheet_0
+  - first:
+      213: 4141399894133260257
+    second: Crown spritesheet_1
+  - first:
+      213: 1021686355027318952
+    second: Crown spritesheet_2
+  - first:
+      213: -8158380940358496489
+    second: Crown spritesheet_3
+  - first:
+      213: 8932587959726277198
+    second: Crown spritesheet_4
+  - first:
+      213: 1566522151712604139
+    second: Crown spritesheet_5
+  - first:
+      213: -2229142979765842469
+    second: Crown spritesheet_6
+  - first:
+      213: -6751024270216639674
+    second: Crown spritesheet_7
+  - first:
+      213: -3983921199469612541
+    second: Crown spritesheet_8
+  - first:
+      213: -1552615831895008606
+    second: Crown spritesheet_9
+  - first:
+      213: -5278991223570390241
+    second: Crown spritesheet_10
+  - first:
+      213: 6994358995730390785
+    second: Crown spritesheet_11
+  - first:
+      213: -8227722827846247504
+    second: Crown spritesheet_12
+  - first:
+      213: 599426676480049440
+    second: Crown spritesheet_13
+  - first:
+      213: 2060483536073081614
+    second: Crown spritesheet_14
+  - first:
+      213: -930972607301126593
+    second: Crown spritesheet_15
+  - first:
+      213: 1418223612775315223
+    second: Crown spritesheet_16
+  - first:
+      213: -6807721563275229527
+    second: Crown spritesheet_17
+  - first:
+      213: -3644089850591040788
+    second: Crown spritesheet_18
+  - first:
+      213: 2647217944595627810
+    second: Crown spritesheet_19
+  - first:
+      213: -8717839164811870892
+    second: Crown spritesheet_20
+  - first:
+      213: 795981965824747507
+    second: Crown spritesheet_21
+  - first:
+      213: -3947353674818044451
+    second: Crown spritesheet_22
+  - first:
+      213: 2901153272797514434
+    second: Crown spritesheet_23
+  - first:
+      213: 2102618866907549754
+    second: Crown spritesheet_24
+  - first:
+      213: 4379390433004303505
+    second: Crown spritesheet_25
+  - first:
+      213: 8504699195378699837
+    second: Crown spritesheet_26
+  - first:
+      213: -2608508889666640101
+    second: Crown spritesheet_27
+  - first:
+      213: 6454939093888368234
+    second: Crown spritesheet_28
+  - first:
+      213: 6930295099079120099
+    second: Crown spritesheet_29
+  - first:
+      213: -4813464530659197254
+    second: Crown spritesheet_30
+  - first:
+      213: -5544955035860504754
+    second: Crown spritesheet_31
+  - first:
+      213: -8573293922772990262
+    second: Crown spritesheet_32
+  - first:
+      213: -6750511374186620778
+    second: Crown spritesheet_33
+  - first:
+      213: -727368067043802362
+    second: Crown spritesheet_34
+  - first:
+      213: 1346313879093685032
+    second: Crown spritesheet_35
+  - first:
+      213: -8563794849940701864
+    second: Crown spritesheet_36
+  - first:
+      213: 4787086649814110574
+    second: Crown spritesheet_37
+  - first:
+      213: 8176230968281522187
+    second: Crown spritesheet_38
+  - first:
+      213: -3862792198278361982
+    second: Crown spritesheet_39
+  - first:
+      213: 761621830389430644
+    second: Crown spritesheet_40
+  - first:
+      213: -7492571515723956097
+    second: Crown spritesheet_41
+  - first:
+      213: 2713932130126735422
+    second: Crown spritesheet_42
+  - first:
+      213: -5513180731185934231
+    second: Crown spritesheet_43
+  - first:
+      213: 9005854599462443125
+    second: Crown spritesheet_44
+  - first:
+      213: 7234636846650707272
+    second: Crown spritesheet_45
+  - first:
+      213: -15807589054363505
+    second: Crown spritesheet_46
+  - first:
+      213: 1859344264248596588
+    second: Crown spritesheet_47
+  - first:
+      213: 2316869811325031970
+    second: Crown spritesheet_48
+  - first:
+      213: -4326941191894810143
+    second: Crown spritesheet_49
+  - first:
+      213: -9109062710561100780
+    second: Crown spritesheet_50
+  - first:
+      213: -1718144738937696018
+    second: Crown spritesheet_51
+  - first:
+      213: 9222872680896899376
+    second: Crown spritesheet_52
+  - first:
+      213: 3527637220109895918
+    second: Crown spritesheet_53
+  - first:
+      213: -2898674058774459629
+    second: Crown spritesheet_54
+  - first:
+      213: -4208303632167199475
+    second: Crown spritesheet_55
+  - first:
+      213: 1440636035748716524
+    second: Crown spritesheet_56
+  - first:
+      213: 3037542821717043123
+    second: Crown spritesheet_57
+  - first:
+      213: 7070654528237258342
+    second: Crown spritesheet_58
+  - first:
+      213: -4381693015315132049
+    second: Crown spritesheet_59
+  - first:
+      213: 7352750108744950954
+    second: Crown spritesheet_60
+  - first:
+      213: -3688473639052863270
+    second: Crown spritesheet_61
+  - first:
+      213: 4175653463665286298
+    second: Crown spritesheet_62
+  - first:
+      213: 420391609222987632
+    second: Crown spritesheet_63
+  - first:
+      213: -8589399831217407034
+    second: Crown spritesheet_64
+  - first:
+      213: -1788750090385588913
+    second: Crown spritesheet_65
+  - first:
+      213: 4632726254764180656
+    second: Crown spritesheet_66
+  - first:
+      213: -8270585865423262691
+    second: Crown spritesheet_67
+  - first:
+      213: -3963007031064358164
+    second: Crown spritesheet_68
+  - first:
+      213: 7364490895493653753
+    second: Crown spritesheet_69
+  - first:
+      213: 9177021477408803603
+    second: Crown spritesheet_70
+  - first:
+      213: 3419014172641963522
+    second: Crown spritesheet_71
+  - first:
+      213: -8020532154841139535
+    second: Crown spritesheet_0
+  - first:
+      213: -6584353881416054563
+    second: Crown spritesheet_1
+  - first:
+      213: 6498785433439808255
+    second: Crown spritesheet_2
+  - first:
+      213: -6183747666954151884
+    second: Crown spritesheet_3
+  - first:
+      213: -6040886048222008547
+    second: Crown spritesheet_4
+  - first:
+      213: -536072993325676851
+    second: Crown spritesheet_5
+  - first:
+      213: 6912507864227689348
+    second: Crown spritesheet_6
+  - first:
+      213: -9099774596881407823
+    second: Crown spritesheet_7
+  - first:
+      213: 2896836026277571646
+    second: Crown spritesheet_8
+  - first:
+      213: -297471944736033736
+    second: Crown spritesheet_9
+  - first:
+      213: 4342780095105969346
+    second: Crown spritesheet_10
+  - first:
+      213: 3112830791466307491
+    second: Crown spritesheet_11
+  - first:
+      213: 1198569269926158092
+    second: Crown spritesheet_12
+  - first:
+      213: -6208902132014555431
+    second: Crown spritesheet_13
+  - first:
+      213: 6699390253312088941
+    second: Crown spritesheet_14
+  - first:
+      213: -7946587322113521998
+    second: Crown spritesheet_15
+  - first:
+      213: -7010649010667194146
+    second: Crown spritesheet_16
+  - first:
+      213: -6745353685600059059
+    second: Crown spritesheet_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crown spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b67811ff7851b090800000000000000
+      internalID: -8020532154841139535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd84bbeb70daf94a0800000000000000
+      internalID: -6584353881416054563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffaa9af6be2503a50800000000000000
+      internalID: 6498785433439808255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4381c82824aee2aa0800000000000000
+      internalID: -6183747666954151884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b2d1725267a2ca0800000000000000
+      internalID: -6040886048222008547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6842be37c7f88f0800000000000000
+      internalID: -536072993325676851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483b26a47492eef50800000000000000
+      internalID: 6912507864227689348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0a2c0873b17b180800000000000000
+      internalID: -9099774596881407823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c24de8401a33820800000000000000
+      internalID: 2896836026277571646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8343d53a7da2fdbf0800000000000000
+      internalID: -297471944736033736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccad6acc77a44c30800000000000000
+      internalID: 4342780095105969346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af4f33cc1ff23b20800000000000000
+      internalID: 3112830791466307491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fd5a4966c22a010800000000000000
+      internalID: 1198569269926158092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de5b18386c85d9a0800000000000000
+      internalID: -6208902132014555431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b9164c0f309fc50800000000000000
+      internalID: 6699390253312088941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b60dc0feec08b190800000000000000
+      internalID: -7946587322113521998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8fc3a6edb25be90800000000000000
+      internalID: -7010649010667194146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crown spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41cf65bf80b362a0800000000000000
+      internalID: -6745353685600059059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

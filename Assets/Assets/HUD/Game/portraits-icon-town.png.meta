@@ -1,0 +1,1451 @@
+fileFormatVersion: 2
+guid: 5183750fda26fc844b05c34662f35e2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1046643720369925312
+    second: TinyRTSEnvironment_0
+  - first:
+      213: 5406092662516659023
+    second: TinyRTSEnvironment_1
+  - first:
+      213: -3753910136732946014
+    second: TinyRTSEnvironment_2
+  - first:
+      213: -6325764742338702201
+    second: TinyRTSEnvironment_3
+  - first:
+      213: -2538673647047569942
+    second: TinyRTSEnvironment_4
+  - first:
+      213: 5640312231770764291
+    second: TinyRTSEnvironment_5
+  - first:
+      213: 7492217088526284157
+    second: TinyRTSEnvironment_6
+  - first:
+      213: -4843544082711478930
+    second: TinyRTSEnvironment_7
+  - first:
+      213: -3860599124453627980
+    second: TinyRTSEnvironment_8
+  - first:
+      213: -2847813596537296385
+    second: TinyRTSEnvironment_9
+  - first:
+      213: -1653709473716953211
+    second: TinyRTSEnvironment_10
+  - first:
+      213: -1312672278419841631
+    second: TinyRTSEnvironment_11
+  - first:
+      213: -8005709488944622955
+    second: TinyRTSEnvironment_12
+  - first:
+      213: -8536723779274579666
+    second: TinyRTSEnvironment_13
+  - first:
+      213: 1283187112052574789
+    second: TinyRTSEnvironment_14
+  - first:
+      213: 5111268966795703132
+    second: TinyRTSEnvironment_15
+  - first:
+      213: 2654101995644604011
+    second: TinyRTSEnvironment_16
+  - first:
+      213: 5121236915624232130
+    second: TinyRTSEnvironment_17
+  - first:
+      213: -604375786849895890
+    second: TinyRTSEnvironment_18
+  - first:
+      213: -2753530156275529389
+    second: TinyRTSEnvironment_19
+  - first:
+      213: -6029079835319489263
+    second: TinyRTSEnvironment_20
+  - first:
+      213: 6525324929758695443
+    second: TinyRTSEnvironment_21
+  - first:
+      213: -7529931408656838568
+    second: TinyRTSEnvironment_22
+  - first:
+      213: 1248325347281502323
+    second: TinyRTSEnvironment_23
+  - first:
+      213: -4863323680791037686
+    second: TinyRTSEnvironment_24
+  - first:
+      213: 1070832161128900081
+    second: TinyRTSEnvironment_25
+  - first:
+      213: 7864500382901427219
+    second: TinyRTSEnvironment_26
+  - first:
+      213: -8580935024045012422
+    second: TinyRTSEnvironment_27
+  - first:
+      213: 1679010103836178604
+    second: TinyRTSEnvironment_28
+  - first:
+      213: 5643083974080301564
+    second: TinyRTSEnvironment_29
+  - first:
+      213: 3432647098443010670
+    second: TinyRTSEnvironment_30
+  - first:
+      213: 188627483528155666
+    second: TinyRTSEnvironment_31
+  - first:
+      213: -6940342765394563051
+    second: TinyRTSEnvironment_32
+  - first:
+      213: -7047938332846309197
+    second: TinyRTSEnvironment_33
+  - first:
+      213: -747034998554734402
+    second: TinyRTSEnvironment_34
+  - first:
+      213: 5095391006083810547
+    second: TinyRTSEnvironment_35
+  - first:
+      213: -3334688181929288926
+    second: TinyRTSEnvironment_36
+  - first:
+      213: -3183618467664415998
+    second: TinyRTSEnvironment_37
+  - first:
+      213: -4517282352592001388
+    second: TinyRTSEnvironment_38
+  - first:
+      213: -4914408987952675510
+    second: TinyRTSEnvironment_39
+  - first:
+      213: 9030994147668908253
+    second: TinyRTSEnvironment_40
+  - first:
+      213: 7401967273872406383
+    second: TinyRTSEnvironment_41
+  - first:
+      213: -7872158791468704873
+    second: TinyRTSEnvironment_42
+  - first:
+      213: -4703503716652897017
+    second: TinyRTSEnvironment_43
+  - first:
+      213: -2803291654309195436
+    second: TinyRTSEnvironment_44
+  - first:
+      213: 8883353220435197905
+    second: TinyRTSEnvironment_45
+  - first:
+      213: -3364691138365046581
+    second: TinyRTSEnvironment_46
+  - first:
+      213: 1006446904436300582
+    second: TinyRTSEnvironment_47
+  - first:
+      213: -974743406062173150
+    second: TinyRTSEnvironment_48
+  - first:
+      213: -4555682722826590590
+    second: TinyRTSEnvironment_49
+  - first:
+      213: -6268851941770010063
+    second: TinyRTSEnvironment_50
+  - first:
+      213: -7223432664370463006
+    second: TinyRTSEnvironment_51
+  - first:
+      213: -3371261413445183911
+    second: TinyRTSEnvironment_52
+  - first:
+      213: 7745377114475858048
+    second: TinyRTSEnvironment_53
+  - first:
+      213: -6797996429742509690
+    second: TinyRTSEnvironment_54
+  - first:
+      213: -4297833829866842116
+    second: TinyRTSEnvironment_55
+  - first:
+      213: -6401583689366151874
+    second: TinyRTSEnvironment_56
+  - first:
+      213: 2361026487921474055
+    second: TinyRTSEnvironment_57
+  - first:
+      213: -2382757203911855581
+    second: TinyRTSEnvironment_58
+  - first:
+      213: -1265052434575462108
+    second: TinyRTSEnvironment_59
+  - first:
+      213: 8087785690879323521
+    second: TinyRTSEnvironment_60
+  - first:
+      213: 7437731728448794761
+    second: TinyRTSEnvironment_61
+  - first:
+      213: -2821691975476360558
+    second: TinyRTSEnvironment_62
+  - first:
+      213: 2793194669690877653
+    second: TinyRTSEnvironment_63
+  - first:
+      213: -6990833458362905574
+    second: TinyRTSEnvironment_64
+  - first:
+      213: 6832597662855271827
+    second: TinyRTSEnvironment_65
+  - first:
+      213: -1630218201945551093
+    second: TinyRTSEnvironment_66
+  - first:
+      213: -7377898622529216803
+    second: TinyRTSEnvironment_67
+  - first:
+      213: 7658700235661962918
+    second: TinyRTSEnvironment_68
+  - first:
+      213: -3821317498528147482
+    second: TinyRTSEnvironment_69
+  - first:
+      213: -7975303747498459186
+    second: TinyRTSEnvironment_70
+  - first:
+      213: -7674187030741329386
+    second: TinyRTSEnvironment_71
+  - first:
+      213: 2311057349481889835
+    second: TinyRTSEnvironment_72
+  - first:
+      213: -7281844608056594757
+    second: TinyRTSEnvironment_73
+  - first:
+      213: 6385319578869743087
+    second: TinyRTSEnvironment_74
+  - first:
+      213: -2887543770330089819
+    second: TinyRTSEnvironment_75
+  - first:
+      213: -6525743166451113030
+    second: TinyRTSEnvironment_76
+  - first:
+      213: -7179189369498900752
+    second: TinyRTSEnvironment_77
+  - first:
+      213: 7982205443421165646
+    second: TinyRTSEnvironment_78
+  - first:
+      213: -5979434702172966306
+    second: TinyRTSEnvironment_79
+  - first:
+      213: -4433224242190119519
+    second: TinyRTSEnvironment_80
+  - first:
+      213: 2025871943718638915
+    second: TinyRTSEnvironment_81
+  - first:
+      213: -7406752093894519553
+    second: TinyRTSEnvironment_82
+  - first:
+      213: -8582736394489659002
+    second: TinyRTSEnvironment_83
+  - first:
+      213: -8362032685151424327
+    second: TinyRTSEnvironment_84
+  - first:
+      213: -347680533511690156
+    second: TinyRTSEnvironment_85
+  - first:
+      213: 4697580160655520521
+    second: TinyRTSEnvironment_86
+  - first:
+      213: -8651213024518152204
+    second: TinyRTSEnvironment_87
+  - first:
+      213: 1210939233156129267
+    second: TinyRTSEnvironment_88
+  - first:
+      213: -4232908937576197646
+    second: TinyRTSEnvironment_89
+  - first:
+      213: -664549525217687633
+    second: TinyRTSEnvironment_90
+  - first:
+      213: 1666533319762519672
+    second: TinyRTSEnvironment_91
+  - first:
+      213: 2208086264528853623
+    second: TinyRTSEnvironment_92
+  - first:
+      213: 3414907674624144378
+    second: TinyRTSEnvironment_93
+  - first:
+      213: 4594455300403863567
+    second: TinyRTSEnvironment_94
+  - first:
+      213: 1520947991926134192
+    second: TinyRTSEnvironment_95
+  - first:
+      213: -8538263163968957366
+    second: TinyRTSEnvironment_96
+  - first:
+      213: -4153206562374858445
+    second: TinyRTSEnvironment_97
+  - first:
+      213: 753402884442117703
+    second: TinyRTSEnvironment_98
+  - first:
+      213: -3722542681045919724
+    second: TinyRTSEnvironment_99
+  - first:
+      213: 9036858446976751385
+    second: TinyRTSEnvironment_100
+  - first:
+      213: 1221095590371745764
+    second: TinyRTSEnvironment_101
+  - first:
+      213: -3886906796367997747
+    second: TinyRTSEnvironment_102
+  - first:
+      213: 4188374701603033461
+    second: TinyRTSEnvironment_103
+  - first:
+      213: 7481278850235518354
+    second: TinyRTSEnvironment_104
+  - first:
+      213: -3137018875243254920
+    second: TinyRTSEnvironment_105
+  - first:
+      213: 1516934767540617320
+    second: TinyRTSEnvironment_106
+  - first:
+      213: 2185250518211268358
+    second: TinyRTSEnvironment_107
+  - first:
+      213: -180363248660743596
+    second: TinyRTSEnvironment_108
+  - first:
+      213: 1802316225450921793
+    second: TinyRTSEnvironment_109
+  - first:
+      213: 6216330306075799906
+    second: TinyRTSEnvironment_110
+  - first:
+      213: 7173506948261005700
+    second: TinyRTSEnvironment_111
+  - first:
+      213: -4408555548245105674
+    second: TinyRTSEnvironment_112
+  - first:
+      213: -4670053884328590134
+    second: TinyRTSEnvironment_113
+  - first:
+      213: 3948767554487019375
+    second: TinyRTSEnvironment_114
+  - first:
+      213: -5357274771591831126
+    second: TinyRTSEnvironment_115
+  - first:
+      213: -7154438220403203178
+    second: TinyRTSEnvironment_116
+  - first:
+      213: -6399503376116162002
+    second: TinyRTSEnvironment_117
+  - first:
+      213: -5099765099018736674
+    second: TinyRTSEnvironment_118
+  - first:
+      213: 5305844614100801981
+    second: TinyRTSEnvironment_119
+  - first:
+      213: -2004648740494210832
+    second: TinyRTSEnvironment_120
+  - first:
+      213: -4320894742370685540
+    second: TinyRTSEnvironment_121
+  - first:
+      213: 1868180485859642540
+    second: TinyRTSEnvironment_122
+  - first:
+      213: -4916110056390042085
+    second: TinyRTSEnvironment_123
+  - first:
+      213: -3738931772829972609
+    second: TinyRTSEnvironment_124
+  - first:
+      213: 5607376740046835231
+    second: TinyRTSEnvironment_125
+  - first:
+      213: -8695383043988449106
+    second: TinyRTSEnvironment_126
+  - first:
+      213: 4544469970925243694
+    second: TinyRTSEnvironment_127
+  - first:
+      213: -1071019633004320547
+    second: TinyRTSEnvironment_128
+  - first:
+      213: -493395360135984415
+    second: TinyRTSEnvironment_129
+  - first:
+      213: 135485299913893803
+    second: TinyRTSEnvironment_130
+  - first:
+      213: 6248639508466489581
+    second: TinyRTSEnvironment_131
+  - first:
+      213: -8479824903219232772
+    second: TinyRTSEnvironment_132
+  - first:
+      213: -6615843832222351833
+    second: TinyRTSEnvironment_133
+  - first:
+      213: -8299622207288459481
+    second: TinyRTSEnvironment_134
+  - first:
+      213: -5416763820752522507
+    second: TinyRTSEnvironment_135
+  - first:
+      213: -972262630524813294
+    second: TinyRTSEnvironment_136
+  - first:
+      213: 3052294346937265872
+    second: TinyRTSEnvironment_137
+  - first:
+      213: 5724994174792188600
+    second: TinyRTSEnvironment_138
+  - first:
+      213: -3038859416706146493
+    second: TinyRTSEnvironment_139
+  - first:
+      213: 3854615136826114254
+    second: TinyRTSEnvironment_140
+  - first:
+      213: 1478812502768460840
+    second: TinyRTSEnvironment_141
+  - first:
+      213: -3441799595109113288
+    second: TinyRTSEnvironment_142
+  - first:
+      213: 7745819447208718351
+    second: FantasyPortraits_0
+  - first:
+      213: -8539318394763348115
+    second: FantasyPortraits_1
+  - first:
+      213: -5469624030831581096
+    second: FantasyPortraits_0
+  - first:
+      213: -4663328344152379987
+    second: FantasyPortraits_1
+  - first:
+      213: 3662763705650542546
+    second: FantasyPortraits_2
+  - first:
+      213: 1633871507475629541
+    second: FantasyPortraits_3
+  - first:
+      213: -5489333177093758320
+    second: FantasyPortraits_4
+  - first:
+      213: -3833664179083551128
+    second: FantasyPortraits_5
+  - first:
+      213: 5829521751522422700
+    second: FantasyPortraits_6
+  - first:
+      213: 1115363773719152671
+    second: FantasyPortraits_7
+  - first:
+      213: 4345245302530859751
+    second: FantasyPortraits_2
+  - first:
+      213: -2071361979697835541
+    second: FantasyPortraits_3
+  - first:
+      213: 4804864869477968854
+    second: FantasyPortraits_4
+  - first:
+      213: 5080622969515992519
+    second: FantasyPortraits_5
+  - first:
+      213: -5715201253542528496
+    second: FantasyPortraits_6
+  - first:
+      213: -4062398131273245659
+    second: FantasyPortraits_7
+  - first:
+      213: -5977657051795866614
+    second: FantasyPortraits_8
+  - first:
+      213: 9103193127669864922
+    second: FantasyPortraits_8
+  - first:
+      213: 4460437298482559110
+    second: FantasyPortraits_9
+  - first:
+      213: -8888397699744908546
+    second: FantasyPortraits_10
+  - first:
+      213: -1350028331462432287
+    second: FantasyPortraitsOthers_0
+  - first:
+      213: 2837491384472182774
+    second: FantasyPortraitsOthers_1
+  - first:
+      213: 2406887682957573847
+    second: FantasyPortraitsOthers_2
+  - first:
+      213: -5696296227692412937
+    second: FantasyPortraitsOthers_3
+  - first:
+      213: 8218097511597568984
+    second: FantasyPortraitsOthers_4
+  - first:
+      213: -8426043946724677948
+    second: FantasyPortraitsOthers_5
+  - first:
+      213: -1534496449303603506
+    second: FantasyPortraitsOthers_6
+  - first:
+      213: 2310573711125685988
+    second: FantasyPortraitsOthers_7
+  - first:
+      213: -5078758519672913663
+    second: FantasyPortraitsOthers_8
+  - first:
+      213: 8448705537229125377
+    second: FantasyPortraitsOthers_9
+  - first:
+      213: -9079605677914167416
+    second: FantasyPortraitsOthers_10
+  - first:
+      213: -4129491118208976634
+    second: FantasyPortraitsOthers_11
+  - first:
+      213: 7913979498033798484
+    second: FantasyPortraitsOthers_12
+  - first:
+      213: 8030173719056819246
+    second: FantasyPortraitsOthers_13
+  - first:
+      213: -3387935546972522804
+    second: FantasyPortraitsOthers_14
+  - first:
+      213: 7342575794225401102
+    second: FantasyPortraitsOthers_15
+  - first:
+      213: -3654248510590689023
+    second: FantasyPortraitsOthers_16
+  - first:
+      213: 2473019656853932662
+    second: FantasyPortraitsOthers_17
+  - first:
+      213: -2947210280695985655
+    second: FantasyPortraitsOthers_18
+  - first:
+      213: 5019538733286792275
+    second: FantasyPortraitsOthers_19
+  - first:
+      213: 7313332870298859593
+    second: FantasyPortraitsOthers_20
+  - first:
+      213: 2227571718442641880
+    second: FantasyPortraitsOthers_21
+  - first:
+      213: -532469290880673802
+    second: FantasyPortraitsOthers_22
+  - first:
+      213: 950193393146397486
+    second: FantasyPortraitsOthers_23
+  - first:
+      213: -6481822600024437493
+    second: FantasyPortraitsOthers_24
+  - first:
+      213: -3478080321930399600
+    second: FantasyPortraitsOthers_25
+  - first:
+      213: -1677275041088580905
+    second: FantasyPortraitsOthers_26
+  - first:
+      213: -5540534701293150087
+    second: FantasyPortraitsOthersIcons_0
+  - first:
+      213: -6165819050826178430
+    second: FantasyPortraitsOthersIcons_1
+  - first:
+      213: -8015107136634185726
+    second: FantasyPortraitsOthersIcons_2
+  - first:
+      213: -4871279799740691799
+    second: FantasyPortraitsOthersIcons_3
+  - first:
+      213: -7428374300249530799
+    second: FantasyPortraitsOthersIcons_4
+  - first:
+      213: -3604101411142607123
+    second: FantasyPortraitsOthersIcons_5
+  - first:
+      213: -5554000874634343938
+    second: FantasyPortraitsOthersIcons_6
+  - first:
+      213: -3210304842052844832
+    second: FantasyPortraitsOthersIcons_7
+  - first:
+      213: -2582106413550208810
+    second: FantasyPortraitsOthersIcons_8
+  - first:
+      213: -4156010654012814977
+    second: FantasyPortraitsOthersIcons_9
+  - first:
+      213: -3052885425176696878
+    second: FantasyPortraitsOthersIcons_10
+  - first:
+      213: -7224354964371126852
+    second: FantasyPortraitsOthersIcons_11
+  - first:
+      213: -6413676545178733201
+    second: FantasyPortraitsOthersIcons_12
+  - first:
+      213: 541589046476022641
+    second: FantasyPortraitsOthersIcons_13
+  - first:
+      213: -1324512255444074167
+    second: FantasyPortraitsOthersIcons_14
+  - first:
+      213: 2334104563924800637
+    second: FantasyPortraitsOthersIcons_15
+  - first:
+      213: 6443804294152659434
+    second: FantasyPortraitsOthersIcons_16
+  - first:
+      213: 8323424809455048600
+    second: FantasyPortraitsOthersIcons_17
+  - first:
+      213: 5670844531013350265
+    second: FantasyPortraitsOthersIcons_18
+  - first:
+      213: 1055429520603291922
+    second: FantasyPortraitsOthersIcons_19
+  - first:
+      213: 7871328815734930036
+    second: FantasyPortraitsOthersIcons_20
+  - first:
+      213: 89147868306812707
+    second: FantasyPortraitsOthersIcons_21
+  - first:
+      213: 3911292761452298358
+    second: FantasyPortraitsOthersIcons_22
+  - first:
+      213: -7634906824078465852
+    second: FantasyPortraitsOthersIcons_23
+  - first:
+      213: -1300765272806835727
+    second: FantasyPortraitsOthersIcons_24
+  - first:
+      213: 8533047295164171886
+    second: FantasyPortraitsOthersIcons_25
+  - first:
+      213: 6313838184695087601
+    second: FantasyPortraitsOthersIcons_26
+  - first:
+      213: 8680783946677622676
+    second: FantasyPortraitsOthersIcons_0
+  - first:
+      213: 8099123031407165422
+    second: FantasyPortraitsOthersIcons_1
+  - first:
+      213: 7713732666239653724
+    second: FantasyPortraitsOthersIcons_2
+  - first:
+      213: -7436862897736227243
+    second: FantasyPortraitsOthersIcons_3
+  - first:
+      213: 4064198723972615918
+    second: FantasyPortraitsOthersIcons_4
+  - first:
+      213: 4911787571815457950
+    second: FantasyPortraitsOthersIcons_5
+  - first:
+      213: 6889718394838694950
+    second: FantasyPortraitsOthersIcons_6
+  - first:
+      213: 861003053697866422
+    second: FantasyPortraitsOthersIcons_7
+  - first:
+      213: 353588417334150161
+    second: FantasyPortraitsOthersIcons_8
+  - first:
+      213: -8386088925016942994
+    second: FantasyPortraitsOthersIcons_9
+  - first:
+      213: -327987712449127784
+    second: FantasyPortraitsOthersIcons_10
+  - first:
+      213: -7422220735394639174
+    second: FantasyPortraitsOthersIcons_11
+  - first:
+      213: 4608933820852535013
+    second: FantasyPortraitsOthersIcons_12
+  - first:
+      213: 14231289565442911
+    second: FantasyPortraitsOthersIcons_13
+  - first:
+      213: -5864258047170079616
+    second: FantasyPortraitsOthersIcons_14
+  - first:
+      213: 1106234988530498041
+    second: FantasyPortraitsOthersIcons_15
+  - first:
+      213: -4378909383024578031
+    second: FantasyPortraitsOthersIcons_16
+  - first:
+      213: -4371130490265082959
+    second: FantasyPortraitsOthersIcons_17
+  - first:
+      213: 8846701927716428423
+    second: FantasyPortraitsOthersIcons_18
+  - first:
+      213: -3493748232641736044
+    second: FantasyPortraitsOthersIcons_19
+  - first:
+      213: -8816710927106782521
+    second: FantasyPortraitsOthersIcons_20
+  - first:
+      213: -761417233431291555
+    second: FantasyPortraitsOthersIcons_21
+  - first:
+      213: -5405333195792327782
+    second: FantasyPortraitsOthersIcons_22
+  - first:
+      213: -9178697138548712080
+    second: FantasyPortraitsOthersIcons_23
+  - first:
+      213: -7045656991071559214
+    second: FantasyPortraitsOthersIcons_24
+  - first:
+      213: -5667569686940875534
+    second: FantasyPortraitsOthersIcons_25
+  - first:
+      213: -3071047816557700488
+    second: FantasyPortraitsOthersIcons_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49712a9b107587870800000000000000
+      internalID: 8680783946677622676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef753f6c7dd56070800000000000000
+      internalID: 8099123031407165422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c579a87adfeac0b60800000000000000
+      internalID: 7713732666239653724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5566621c894fac890800000000000000
+      internalID: -7436862897736227243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeecbf6d43fe66830800000000000000
+      internalID: 4064198723972615918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e942d36d5cc2a2440800000000000000
+      internalID: 4911787571815457950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cb5d670623d9f50800000000000000
+      internalID: 6889718394838694950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba103e27b5e2fb00800000000000000
+      internalID: 861003053697866422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11405ebcac238e400800000000000000
+      internalID: 353588417334150161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e661789dd80ae9b80800000000000000
+      internalID: -8386088925016942994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ad6ccc9e0c27bf0800000000000000
+      internalID: -327987712449127784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab29346d099fef890800000000000000
+      internalID: -7422220735394639174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eef23114e836ff30800000000000000
+      internalID: 4608933820852535013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f537e3f484f823000800000000000000
+      internalID: 14231289565442911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08493335068fd9ea0800000000000000
+      internalID: -5864258047170079616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9f7796cd22a5f00800000000000000
+      internalID: 1106234988530498041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112f139dd1dfa33c0800000000000000
+      internalID: -4378909383024578031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3eed47aff9653c0800000000000000
+      internalID: -4371130490265082959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a1d4b088cc5ca70800000000000000
+      internalID: 8846701927716428423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4929dba3e76b38fc0800000000000000
+      internalID: -3493748232641736044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cace7eef10c4a580800000000000000
+      internalID: -8816710927106782521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5997737f07ee65f0800000000000000
+      internalID: -761417233431291555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bdb2cd8166cf4b0800000000000000
+      internalID: -5405333195792327782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dd8e35597be9080800000000000000
+      internalID: -9178697138548712080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1aeedcb4cc83e90800000000000000
+      internalID: -7045656991071559214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f40e16d56fb851b0800000000000000
+      internalID: -5667569686940875534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FantasyPortraitsOthersIcons_26
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ad6dd28427165d0800000000000000
+      internalID: -3071047816557700488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

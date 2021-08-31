@@ -1,0 +1,5588 @@
+fileFormatVersion: 2
+guid: 8561c15911e4415469b9f60666095c1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1046643720369925312
+    second: TinyRTSEnvironment_0
+  - first:
+      213: 5406092662516659023
+    second: TinyRTSEnvironment_1
+  - first:
+      213: -3753910136732946014
+    second: TinyRTSEnvironment_2
+  - first:
+      213: -6325764742338702201
+    second: TinyRTSEnvironment_3
+  - first:
+      213: -2538673647047569942
+    second: TinyRTSEnvironment_4
+  - first:
+      213: 5640312231770764291
+    second: TinyRTSEnvironment_5
+  - first:
+      213: 7492217088526284157
+    second: TinyRTSEnvironment_6
+  - first:
+      213: -4843544082711478930
+    second: TinyRTSEnvironment_7
+  - first:
+      213: -3860599124453627980
+    second: TinyRTSEnvironment_8
+  - first:
+      213: -2847813596537296385
+    second: TinyRTSEnvironment_9
+  - first:
+      213: -1653709473716953211
+    second: TinyRTSEnvironment_10
+  - first:
+      213: -1312672278419841631
+    second: TinyRTSEnvironment_11
+  - first:
+      213: -8005709488944622955
+    second: TinyRTSEnvironment_12
+  - first:
+      213: -8536723779274579666
+    second: TinyRTSEnvironment_13
+  - first:
+      213: 1283187112052574789
+    second: TinyRTSEnvironment_14
+  - first:
+      213: 5111268966795703132
+    second: TinyRTSEnvironment_15
+  - first:
+      213: 2654101995644604011
+    second: TinyRTSEnvironment_16
+  - first:
+      213: 5121236915624232130
+    second: TinyRTSEnvironment_17
+  - first:
+      213: -604375786849895890
+    second: TinyRTSEnvironment_18
+  - first:
+      213: -2753530156275529389
+    second: TinyRTSEnvironment_19
+  - first:
+      213: -6029079835319489263
+    second: TinyRTSEnvironment_20
+  - first:
+      213: 6525324929758695443
+    second: TinyRTSEnvironment_21
+  - first:
+      213: -7529931408656838568
+    second: TinyRTSEnvironment_22
+  - first:
+      213: 1248325347281502323
+    second: TinyRTSEnvironment_23
+  - first:
+      213: -4863323680791037686
+    second: TinyRTSEnvironment_24
+  - first:
+      213: 1070832161128900081
+    second: TinyRTSEnvironment_25
+  - first:
+      213: 7864500382901427219
+    second: TinyRTSEnvironment_26
+  - first:
+      213: -8580935024045012422
+    second: TinyRTSEnvironment_27
+  - first:
+      213: 1679010103836178604
+    second: TinyRTSEnvironment_28
+  - first:
+      213: 5643083974080301564
+    second: TinyRTSEnvironment_29
+  - first:
+      213: 3432647098443010670
+    second: TinyRTSEnvironment_30
+  - first:
+      213: 188627483528155666
+    second: TinyRTSEnvironment_31
+  - first:
+      213: -6940342765394563051
+    second: TinyRTSEnvironment_32
+  - first:
+      213: -7047938332846309197
+    second: TinyRTSEnvironment_33
+  - first:
+      213: -747034998554734402
+    second: TinyRTSEnvironment_34
+  - first:
+      213: 5095391006083810547
+    second: TinyRTSEnvironment_35
+  - first:
+      213: -3334688181929288926
+    second: TinyRTSEnvironment_36
+  - first:
+      213: -3183618467664415998
+    second: TinyRTSEnvironment_37
+  - first:
+      213: -4517282352592001388
+    second: TinyRTSEnvironment_38
+  - first:
+      213: -4914408987952675510
+    second: TinyRTSEnvironment_39
+  - first:
+      213: 9030994147668908253
+    second: TinyRTSEnvironment_40
+  - first:
+      213: 7401967273872406383
+    second: TinyRTSEnvironment_41
+  - first:
+      213: -7872158791468704873
+    second: TinyRTSEnvironment_42
+  - first:
+      213: -4703503716652897017
+    second: TinyRTSEnvironment_43
+  - first:
+      213: -2803291654309195436
+    second: TinyRTSEnvironment_44
+  - first:
+      213: 8883353220435197905
+    second: TinyRTSEnvironment_45
+  - first:
+      213: -3364691138365046581
+    second: TinyRTSEnvironment_46
+  - first:
+      213: 1006446904436300582
+    second: TinyRTSEnvironment_47
+  - first:
+      213: -974743406062173150
+    second: TinyRTSEnvironment_48
+  - first:
+      213: -4555682722826590590
+    second: TinyRTSEnvironment_49
+  - first:
+      213: -6268851941770010063
+    second: TinyRTSEnvironment_50
+  - first:
+      213: -7223432664370463006
+    second: TinyRTSEnvironment_51
+  - first:
+      213: -3371261413445183911
+    second: TinyRTSEnvironment_52
+  - first:
+      213: 7745377114475858048
+    second: TinyRTSEnvironment_53
+  - first:
+      213: -6797996429742509690
+    second: TinyRTSEnvironment_54
+  - first:
+      213: -4297833829866842116
+    second: TinyRTSEnvironment_55
+  - first:
+      213: -6401583689366151874
+    second: TinyRTSEnvironment_56
+  - first:
+      213: 2361026487921474055
+    second: TinyRTSEnvironment_57
+  - first:
+      213: -2382757203911855581
+    second: TinyRTSEnvironment_58
+  - first:
+      213: -1265052434575462108
+    second: TinyRTSEnvironment_59
+  - first:
+      213: 8087785690879323521
+    second: TinyRTSEnvironment_60
+  - first:
+      213: 7437731728448794761
+    second: TinyRTSEnvironment_61
+  - first:
+      213: -2821691975476360558
+    second: TinyRTSEnvironment_62
+  - first:
+      213: 2793194669690877653
+    second: TinyRTSEnvironment_63
+  - first:
+      213: -6990833458362905574
+    second: TinyRTSEnvironment_64
+  - first:
+      213: 6832597662855271827
+    second: TinyRTSEnvironment_65
+  - first:
+      213: -1630218201945551093
+    second: TinyRTSEnvironment_66
+  - first:
+      213: -7377898622529216803
+    second: TinyRTSEnvironment_67
+  - first:
+      213: 7658700235661962918
+    second: TinyRTSEnvironment_68
+  - first:
+      213: -3821317498528147482
+    second: TinyRTSEnvironment_69
+  - first:
+      213: -7975303747498459186
+    second: TinyRTSEnvironment_70
+  - first:
+      213: -7674187030741329386
+    second: TinyRTSEnvironment_71
+  - first:
+      213: 2311057349481889835
+    second: TinyRTSEnvironment_72
+  - first:
+      213: -7281844608056594757
+    second: TinyRTSEnvironment_73
+  - first:
+      213: 6385319578869743087
+    second: TinyRTSEnvironment_74
+  - first:
+      213: -2887543770330089819
+    second: TinyRTSEnvironment_75
+  - first:
+      213: -6525743166451113030
+    second: TinyRTSEnvironment_76
+  - first:
+      213: -7179189369498900752
+    second: TinyRTSEnvironment_77
+  - first:
+      213: 7982205443421165646
+    second: TinyRTSEnvironment_78
+  - first:
+      213: -5979434702172966306
+    second: TinyRTSEnvironment_79
+  - first:
+      213: -4433224242190119519
+    second: TinyRTSEnvironment_80
+  - first:
+      213: 2025871943718638915
+    second: TinyRTSEnvironment_81
+  - first:
+      213: -7406752093894519553
+    second: TinyRTSEnvironment_82
+  - first:
+      213: -8582736394489659002
+    second: TinyRTSEnvironment_83
+  - first:
+      213: -8362032685151424327
+    second: TinyRTSEnvironment_84
+  - first:
+      213: -347680533511690156
+    second: TinyRTSEnvironment_85
+  - first:
+      213: 4697580160655520521
+    second: TinyRTSEnvironment_86
+  - first:
+      213: -8651213024518152204
+    second: TinyRTSEnvironment_87
+  - first:
+      213: 1210939233156129267
+    second: TinyRTSEnvironment_88
+  - first:
+      213: -4232908937576197646
+    second: TinyRTSEnvironment_89
+  - first:
+      213: -664549525217687633
+    second: TinyRTSEnvironment_90
+  - first:
+      213: 1666533319762519672
+    second: TinyRTSEnvironment_91
+  - first:
+      213: 2208086264528853623
+    second: TinyRTSEnvironment_92
+  - first:
+      213: 3414907674624144378
+    second: TinyRTSEnvironment_93
+  - first:
+      213: 4594455300403863567
+    second: TinyRTSEnvironment_94
+  - first:
+      213: 1520947991926134192
+    second: TinyRTSEnvironment_95
+  - first:
+      213: -8538263163968957366
+    second: TinyRTSEnvironment_96
+  - first:
+      213: -4153206562374858445
+    second: TinyRTSEnvironment_97
+  - first:
+      213: 753402884442117703
+    second: TinyRTSEnvironment_98
+  - first:
+      213: -3722542681045919724
+    second: TinyRTSEnvironment_99
+  - first:
+      213: 9036858446976751385
+    second: TinyRTSEnvironment_100
+  - first:
+      213: 1221095590371745764
+    second: TinyRTSEnvironment_101
+  - first:
+      213: -3886906796367997747
+    second: TinyRTSEnvironment_102
+  - first:
+      213: 4188374701603033461
+    second: TinyRTSEnvironment_103
+  - first:
+      213: 7481278850235518354
+    second: TinyRTSEnvironment_104
+  - first:
+      213: -3137018875243254920
+    second: TinyRTSEnvironment_105
+  - first:
+      213: 1516934767540617320
+    second: TinyRTSEnvironment_106
+  - first:
+      213: 2185250518211268358
+    second: TinyRTSEnvironment_107
+  - first:
+      213: -180363248660743596
+    second: TinyRTSEnvironment_108
+  - first:
+      213: 1802316225450921793
+    second: TinyRTSEnvironment_109
+  - first:
+      213: 6216330306075799906
+    second: TinyRTSEnvironment_110
+  - first:
+      213: 7173506948261005700
+    second: TinyRTSEnvironment_111
+  - first:
+      213: -4408555548245105674
+    second: TinyRTSEnvironment_112
+  - first:
+      213: -4670053884328590134
+    second: TinyRTSEnvironment_113
+  - first:
+      213: 3948767554487019375
+    second: TinyRTSEnvironment_114
+  - first:
+      213: -5357274771591831126
+    second: TinyRTSEnvironment_115
+  - first:
+      213: -7154438220403203178
+    second: TinyRTSEnvironment_116
+  - first:
+      213: -6399503376116162002
+    second: TinyRTSEnvironment_117
+  - first:
+      213: -5099765099018736674
+    second: TinyRTSEnvironment_118
+  - first:
+      213: 5305844614100801981
+    second: TinyRTSEnvironment_119
+  - first:
+      213: -2004648740494210832
+    second: TinyRTSEnvironment_120
+  - first:
+      213: -4320894742370685540
+    second: TinyRTSEnvironment_121
+  - first:
+      213: 1868180485859642540
+    second: TinyRTSEnvironment_122
+  - first:
+      213: -4916110056390042085
+    second: TinyRTSEnvironment_123
+  - first:
+      213: -3738931772829972609
+    second: TinyRTSEnvironment_124
+  - first:
+      213: 5607376740046835231
+    second: TinyRTSEnvironment_125
+  - first:
+      213: -8695383043988449106
+    second: TinyRTSEnvironment_126
+  - first:
+      213: 4544469970925243694
+    second: TinyRTSEnvironment_127
+  - first:
+      213: -1071019633004320547
+    second: TinyRTSEnvironment_128
+  - first:
+      213: -493395360135984415
+    second: TinyRTSEnvironment_129
+  - first:
+      213: 135485299913893803
+    second: TinyRTSEnvironment_130
+  - first:
+      213: 6248639508466489581
+    second: TinyRTSEnvironment_131
+  - first:
+      213: -8479824903219232772
+    second: TinyRTSEnvironment_132
+  - first:
+      213: -6615843832222351833
+    second: TinyRTSEnvironment_133
+  - first:
+      213: -8299622207288459481
+    second: TinyRTSEnvironment_134
+  - first:
+      213: -5416763820752522507
+    second: TinyRTSEnvironment_135
+  - first:
+      213: -972262630524813294
+    second: TinyRTSEnvironment_136
+  - first:
+      213: 3052294346937265872
+    second: TinyRTSEnvironment_137
+  - first:
+      213: 5724994174792188600
+    second: TinyRTSEnvironment_138
+  - first:
+      213: -3038859416706146493
+    second: TinyRTSEnvironment_139
+  - first:
+      213: 3854615136826114254
+    second: TinyRTSEnvironment_140
+  - first:
+      213: 1478812502768460840
+    second: TinyRTSEnvironment_141
+  - first:
+      213: -3441799595109113288
+    second: TinyRTSEnvironment_142
+  - first:
+      213: 1366569074968946820
+    second: TinyRTSEnvironment_0
+  - first:
+      213: 7178520286484835293
+    second: TinyRTSEnvironment_1
+  - first:
+      213: -1675648372500165989
+    second: TinyRTSEnvironment_2
+  - first:
+      213: -2706383739383527646
+    second: TinyRTSEnvironment_3
+  - first:
+      213: -5730900749958272512
+    second: TinyRTSEnvironment_4
+  - first:
+      213: -7513939656424205741
+    second: TinyRTSEnvironment_5
+  - first:
+      213: -5559146352296770826
+    second: TinyRTSEnvironment_6
+  - first:
+      213: -1824483984781568982
+    second: TinyRTSEnvironment_7
+  - first:
+      213: 3453178920996204549
+    second: TinyRTSEnvironment_8
+  - first:
+      213: -2156953472911054973
+    second: TinyRTSEnvironment_9
+  - first:
+      213: -8427338607771963868
+    second: TinyRTSEnvironment_10
+  - first:
+      213: 6472325301173666088
+    second: TinyRTSEnvironment_11
+  - first:
+      213: 5028021717240144463
+    second: TinyRTSEnvironment_12
+  - first:
+      213: 3083978494428171495
+    second: TinyRTSEnvironment_13
+  - first:
+      213: 5417820947383743226
+    second: TinyRTSEnvironment_14
+  - first:
+      213: -8710604265290495156
+    second: TinyRTSEnvironment_15
+  - first:
+      213: 2726515343822758503
+    second: TinyRTSEnvironment_16
+  - first:
+      213: -1570070262664690173
+    second: TinyRTSEnvironment_17
+  - first:
+      213: -3761756907213315137
+    second: TinyRTSEnvironment_18
+  - first:
+      213: 4002559477668712110
+    second: TinyRTSEnvironment_19
+  - first:
+      213: 3673224851772195314
+    second: TinyRTSEnvironment_20
+  - first:
+      213: 4435370616566504888
+    second: TinyRTSEnvironment_21
+  - first:
+      213: 8729562722615921298
+    second: TinyRTSEnvironment_22
+  - first:
+      213: -2352901051747846591
+    second: TinyRTSEnvironment_23
+  - first:
+      213: 7080398154103641676
+    second: TinyRTSEnvironment_24
+  - first:
+      213: -5879387269594348037
+    second: TinyRTSEnvironment_25
+  - first:
+      213: -6653215648023871962
+    second: TinyRTSEnvironment_26
+  - first:
+      213: -421477312241993898
+    second: TinyRTSEnvironment_27
+  - first:
+      213: -657641008981400149
+    second: TinyRTSEnvironment_28
+  - first:
+      213: -7648370892501254009
+    second: TinyRTSEnvironment_29
+  - first:
+      213: 528859062699844414
+    second: TinyRTSEnvironment_30
+  - first:
+      213: 9134082648997208489
+    second: TinyRTSEnvironment_31
+  - first:
+      213: 7011809635097391716
+    second: TinyRTSEnvironment_32
+  - first:
+      213: -4856175212376685647
+    second: TinyRTSEnvironment_33
+  - first:
+      213: 1994877318892976125
+    second: TinyRTSEnvironment_34
+  - first:
+      213: 3966784043689165438
+    second: TinyRTSEnvironment_35
+  - first:
+      213: 2019325462541050020
+    second: TinyRTSEnvironment_36
+  - first:
+      213: 6009022036261341976
+    second: TinyRTSEnvironment_37
+  - first:
+      213: 1450311079789034117
+    second: TinyRTSEnvironment_38
+  - first:
+      213: 591746187594195830
+    second: TinyRTSEnvironment_39
+  - first:
+      213: 5989131961012677895
+    second: TinyRTSEnvironment_40
+  - first:
+      213: 1270692767844110933
+    second: TinyRTSEnvironment_41
+  - first:
+      213: 1919640751000487394
+    second: TinyRTSEnvironment_42
+  - first:
+      213: -4165771509878435723
+    second: TinyRTSEnvironment_43
+  - first:
+      213: -4180559365495443851
+    second: TinyRTSEnvironment_44
+  - first:
+      213: 2419565154386517058
+    second: TinyRTSEnvironment_45
+  - first:
+      213: 3608324397711574439
+    second: TinyRTSEnvironment_46
+  - first:
+      213: -8210404550411440106
+    second: TinyRTSEnvironment_47
+  - first:
+      213: 2562970385058137919
+    second: TinyRTSEnvironment_48
+  - first:
+      213: 6794793531459464700
+    second: TinyRTSEnvironment_49
+  - first:
+      213: -3598579178162661311
+    second: TinyRTSEnvironment_50
+  - first:
+      213: -7541265251481100857
+    second: TinyRTSEnvironment_51
+  - first:
+      213: 9080962652890845321
+    second: TinyRTSEnvironment_52
+  - first:
+      213: -452665605858545976
+    second: TinyRTSEnvironment_53
+  - first:
+      213: -766199709725942022
+    second: TinyRTSEnvironment_54
+  - first:
+      213: -5134900389935348021
+    second: TinyRTSEnvironment_55
+  - first:
+      213: 1677492543726206125
+    second: TinyRTSEnvironment_56
+  - first:
+      213: -3901408074448403927
+    second: TinyRTSEnvironment_57
+  - first:
+      213: -9070992283911088571
+    second: TinyRTSEnvironment_58
+  - first:
+      213: -3759219985045055170
+    second: TinyRTSEnvironment_59
+  - first:
+      213: -5867692866631034066
+    second: TinyRTSEnvironment_60
+  - first:
+      213: -6888195247780827179
+    second: TinyRTSEnvironment_61
+  - first:
+      213: 7980662062265056868
+    second: TinyRTSEnvironment_62
+  - first:
+      213: 6448475875409645814
+    second: TinyRTSEnvironment_63
+  - first:
+      213: -39176909969225144
+    second: TinyRTSEnvironment_64
+  - first:
+      213: 2132687222429781956
+    second: TinyRTSEnvironment_65
+  - first:
+      213: -491407749212123845
+    second: TinyRTSEnvironment_66
+  - first:
+      213: -6328195693223739737
+    second: TinyRTSEnvironment_67
+  - first:
+      213: 2432115715663580424
+    second: TinyRTSEnvironment_68
+  - first:
+      213: -5649941524182609950
+    second: TinyRTSEnvironment_69
+  - first:
+      213: -2408962994730169382
+    second: TinyRTSEnvironment_70
+  - first:
+      213: 220939940721768838
+    second: TinyRTSEnvironment_71
+  - first:
+      213: 1781502659280034983
+    second: TinyRTSEnvironment_72
+  - first:
+      213: -6702153449823234842
+    second: TinyRTSEnvironment_73
+  - first:
+      213: 2392994993039875371
+    second: TinyRTSEnvironment_74
+  - first:
+      213: 8751454762605653807
+    second: TinyRTSEnvironment_75
+  - first:
+      213: 1338291036799036780
+    second: TinyRTSEnvironment_76
+  - first:
+      213: -5407659604338105598
+    second: TinyRTSEnvironment_77
+  - first:
+      213: 3567933618154927937
+    second: TinyRTSEnvironment_78
+  - first:
+      213: 2641030136883711944
+    second: TinyRTSEnvironment_79
+  - first:
+      213: -1496500153154002886
+    second: TinyRTSEnvironment_80
+  - first:
+      213: 1664329552581726354
+    second: TinyRTSEnvironment_81
+  - first:
+      213: 366683515711443560
+    second: TinyRTSEnvironment_82
+  - first:
+      213: 4732857658948388113
+    second: TinyRTSEnvironment_83
+  - first:
+      213: 9026558284099622403
+    second: TinyRTSEnvironment_84
+  - first:
+      213: -9158571205847334779
+    second: TinyRTSEnvironment_85
+  - first:
+      213: 5880710485835537446
+    second: TinyRTSEnvironment_86
+  - first:
+      213: 3004170559311468153
+    second: TinyRTSEnvironment_87
+  - first:
+      213: -3945235668122256489
+    second: TinyRTSEnvironment_88
+  - first:
+      213: -3110476325053459878
+    second: TinyRTSEnvironment_89
+  - first:
+      213: -6166223763243379134
+    second: TinyRTSEnvironment_90
+  - first:
+      213: 8693149855081961074
+    second: TinyRTSEnvironment_91
+  - first:
+      213: 7623327968445947325
+    second: TinyRTSEnvironment_92
+  - first:
+      213: 453938295675878801
+    second: TinyRTSEnvironment_93
+  - first:
+      213: -7493015072820037060
+    second: TinyRTSEnvironment_94
+  - first:
+      213: -5504689687723800635
+    second: TinyRTSEnvironment_95
+  - first:
+      213: 237761502875077980
+    second: TinyRTSEnvironment_96
+  - first:
+      213: -2111927458406109224
+    second: TinyRTSEnvironment_97
+  - first:
+      213: 2194267797738070009
+    second: TinyRTSEnvironment_98
+  - first:
+      213: 8096646734442944628
+    second: TinyRTSEnvironment_99
+  - first:
+      213: 4371476530819436779
+    second: TinyRTSEnvironment_100
+  - first:
+      213: 2490682490346944388
+    second: TinyRTSEnvironment_101
+  - first:
+      213: -4767122527921807492
+    second: TinyRTSEnvironment_102
+  - first:
+      213: 693677119531859319
+    second: TinyRTSEnvironment_103
+  - first:
+      213: -2730088971967731542
+    second: TinyRTSEnvironment_104
+  - first:
+      213: 6263512300569831171
+    second: TinyRTSEnvironment_105
+  - first:
+      213: 3142544634555363666
+    second: TinyRTSEnvironment_106
+  - first:
+      213: 5513307456559798972
+    second: TinyRTSEnvironment_107
+  - first:
+      213: -6710271790850321344
+    second: TinyRTSEnvironment_108
+  - first:
+      213: -3102525736618528619
+    second: TinyRTSEnvironment_109
+  - first:
+      213: -2823068549391015452
+    second: TinyRTSEnvironment_110
+  - first:
+      213: -7682041769650745784
+    second: TinyRTSEnvironment_111
+  - first:
+      213: -4726241167357714779
+    second: TinyRTSEnvironment_112
+  - first:
+      213: -838636469061556220
+    second: TinyRTSEnvironment_113
+  - first:
+      213: -7605400905511765010
+    second: TinyRTSEnvironment_114
+  - first:
+      213: -6759202019264781938
+    second: TinyRTSEnvironment_115
+  - first:
+      213: -7094310057125918141
+    second: TinyRTSEnvironment_116
+  - first:
+      213: 954050176545891695
+    second: TinyRTSEnvironment_117
+  - first:
+      213: 8320406974552961848
+    second: TinyRTSEnvironment_118
+  - first:
+      213: 7496978679278243668
+    second: TinyRTSEnvironment_119
+  - first:
+      213: 7744257041435597688
+    second: TinyRTSEnvironment_120
+  - first:
+      213: -4068120440334461188
+    second: TinyRTSEnvironment_121
+  - first:
+      213: -1288582177532446703
+    second: TinyRTSEnvironment_122
+  - first:
+      213: 4182938332875988152
+    second: TinyRTSEnvironment_123
+  - first:
+      213: 3033503013025481504
+    second: TinyRTSEnvironment_124
+  - first:
+      213: -7728512964486178521
+    second: TinyRTSEnvironment_125
+  - first:
+      213: 6057655330176939807
+    second: TinyRTSEnvironment_126
+  - first:
+      213: -2069662935516653543
+    second: TinyRTSEnvironment_127
+  - first:
+      213: 4777755401612143540
+    second: TinyRTSEnvironment_128
+  - first:
+      213: 7055785620292219088
+    second: TinyRTSEnvironment_129
+  - first:
+      213: 3317167358905044756
+    second: TinyRTSEnvironment_130
+  - first:
+      213: -8606472663530682220
+    second: TinyRTSEnvironment_131
+  - first:
+      213: -5299997071343020408
+    second: TinyRTSEnvironment_132
+  - first:
+      213: 6644600947907415216
+    second: TinyRTSEnvironment_133
+  - first:
+      213: 1889815677027380361
+    second: TinyRTSEnvironment_134
+  - first:
+      213: -2761013472765895229
+    second: TinyRTSEnvironment_135
+  - first:
+      213: -3467190636473677934
+    second: TinyRTSEnvironment_136
+  - first:
+      213: 7943091920548112073
+    second: TinyRTSEnvironment_137
+  - first:
+      213: -7702140941602106576
+    second: TinyRTSEnvironment_138
+  - first:
+      213: 7049181209256968845
+    second: TinyRTSEnvironment_139
+  - first:
+      213: -7869254682926211910
+    second: TinyRTSEnvironment_140
+  - first:
+      213: 4656669512030412740
+    second: TinyRTSEnvironment_141
+  - first:
+      213: 7470437133002424720
+    second: TinyRTSEnvironment_142
+  - first:
+      213: -6609328594608457289
+    second: TinyRTSEnvironment_143
+  - first:
+      213: -5761080137358347803
+    second: TinyRTSEnvironment_143
+  - first:
+      213: -4499281919301961723
+    second: TinyRTSEnvironment_144
+  - first:
+      213: -2809675589994894432
+    second: TinyRTSEnvironment_144
+  - first:
+      213: -1470545293021266437
+    second: TinyRTSEnvironment_145
+  - first:
+      213: -4922464673823032677
+    second: TinyRTSEnvironment_146
+  - first:
+      213: -8421498769958801742
+    second: TinyRTSEnvironment_147
+  - first:
+      213: 8218184748011432841
+    second: TinyRTSEnvironment_148
+  - first:
+      213: -8681212473725484192
+    second: TinyRTSEnvironment_149
+  - first:
+      213: -3873790998221926859
+    second: TinyRTSEnvironment_150
+  - first:
+      213: -7083767332532721370
+    second: TinyRTSEnvironment_151
+  - first:
+      213: 2750664292949273247
+    second: TinyRTSEnvironment_152
+  - first:
+      213: 8396467339606156253
+    second: TinyRTSEnvironment_153
+  - first:
+      213: -2103941959322887005
+    second: TinyRTSEnvironment_154
+  - first:
+      213: -3668411955079995208
+    second: TinyRTSEnvironment_155
+  - first:
+      213: 184809186964276062
+    second: TinyRTSEnvironment_156
+  - first:
+      213: -1111666821956855858
+    second: TinyRTSEnvironment_157
+  - first:
+      213: -3248538697584744819
+    second: TinyRTSEnvironment_158
+  - first:
+      213: -4052096496697793221
+    second: TinyRTSEnvironment_159
+  - first:
+      213: -2420841450492650407
+    second: TinyRTSEnvironment_160
+  - first:
+      213: 37895515990262553
+    second: TinyRTSEnvironment_161
+  - first:
+      213: -7674495099111333712
+    second: TinyRTSEnvironment_162
+  - first:
+      213: 4475965420310011667
+    second: TinyRTSEnvironment_163
+  - first:
+      213: -5778766992598250633
+    second: TinyRTSEnvironment_164
+  - first:
+      213: -7194610956491898218
+    second: TinyRTSEnvironment_165
+  - first:
+      213: 3471459214777643952
+    second: TinyRTSEnvironment_166
+  - first:
+      213: 8545164500461196824
+    second: TinyRTSEnvironment_167
+  - first:
+      213: 1152476209549330086
+    second: TinyRTSEnvironment_168
+  - first:
+      213: -6513551221948297001
+    second: TinyRTSEnvironment_169
+  - first:
+      213: -3743347933961372960
+    second: TinyRTSEnvironment_170
+  - first:
+      213: -3228123663758452301
+    second: TinyRTSEnvironment_171
+  - first:
+      213: -9022567103627977808
+    second: TinyRTSEnvironment_172
+  - first:
+      213: 6845932501722270986
+    second: TinyRTSEnvironment_173
+  - first:
+      213: 582313302610729964
+    second: TinyRTSEnvironment_174
+  - first:
+      213: 8642324675064086049
+    second: TinyRTSEnvironment_175
+  - first:
+      213: 2058730721807992048
+    second: TinyRTSEnvironment_176
+  - first:
+      213: -2046041571564066523
+    second: TinyRTSEnvironment_177
+  - first:
+      213: -8106537173512091042
+    second: TinyRTSEnvironment_178
+  - first:
+      213: -8160168760874404339
+    second: TinyRTSEnvironment_179
+  - first:
+      213: -703153245923597873
+    second: TinyRTSEnvironment_180
+  - first:
+      213: 2073594490573640638
+    second: TinyRTSEnvironment_181
+  - first:
+      213: -5335239820074459809
+    second: TinyRTSEnvironment_182
+  - first:
+      213: -1628343432968897350
+    second: TinyRTSEnvironment_183
+  - first:
+      213: -891958506894848889
+    second: TinyRTSEnvironment_184
+  - first:
+      213: 3351751868405518047
+    second: TinyRTSEnvironment_185
+  - first:
+      213: 4015671992802270071
+    second: TinyRTSEnvironment_186
+  - first:
+      213: 6481184034397450679
+    second: TinyRTSEnvironment_187
+  - first:
+      213: 8014644529335734242
+    second: TinyRTSEnvironment_188
+  - first:
+      213: -7722893179655496646
+    second: TinyRTSEnvironment_189
+  - first:
+      213: 6587369560154568422
+    second: TinyRTSEnvironment_190
+  - first:
+      213: -9016635462143545610
+    second: TinyRTSEnvironment_191
+  - first:
+      213: -8106339999092477896
+    second: TinyRTSEnvironment_192
+  - first:
+      213: -5965205715799286422
+    second: TinyRTSEnvironment_145
+  - first:
+      213: 1039284774520974198
+    second: TinyRTSEnvironment_146
+  - first:
+      213: -227425544235735508
+    second: TinyRTSEnvironment_147
+  - first:
+      213: 283499618095964945
+    second: TinyRTSEnvironment_148
+  - first:
+      213: -1578543309863357479
+    second: TinyRTSEnvironment_149
+  - first:
+      213: -8678180149092075880
+    second: TinyRTSEnvironment_150
+  - first:
+      213: 3825489271648285551
+    second: TinyRTSEnvironment_151
+  - first:
+      213: -1398150969876311747
+    second: TinyRTSEnvironment_152
+  - first:
+      213: -3342766680858859736
+    second: TinyRTSEnvironment_153
+  - first:
+      213: 434834597237261344
+    second: TinyRTSEnvironment_154
+  - first:
+      213: -8210653585744860719
+    second: TinyRTSEnvironment_155
+  - first:
+      213: -438435021756450720
+    second: TinyRTSEnvironment_156
+  - first:
+      213: 8371054967965411331
+    second: TinyRTSEnvironment_157
+  - first:
+      213: -9000214335724950759
+    second: TinyRTSEnvironment_158
+  - first:
+      213: 1550689303241989996
+    second: TinyRTSEnvironment_159
+  - first:
+      213: 2097303435490405629
+    second: TinyRTSEnvironment_160
+  - first:
+      213: 950571830951927654
+    second: TinyRTSEnvironment_161
+  - first:
+      213: -1137864144536353095
+    second: TinyRTSEnvironment_162
+  - first:
+      213: 6958754587424514034
+    second: TinyRTSEnvironment_163
+  - first:
+      213: 6174533168302434302
+    second: TinyRTSEnvironment_164
+  - first:
+      213: -8380838475844284212
+    second: TinyRTSEnvironment_165
+  - first:
+      213: -4043746100585375425
+    second: TinyRTSEnvironment_166
+  - first:
+      213: -6530115535511524112
+    second: TinyRTSEnvironment_167
+  - first:
+      213: -5832415571474884964
+    second: TinyRTSEnvironment_168
+  - first:
+      213: 5099847358282428271
+    second: TinyRTSEnvironment_169
+  - first:
+      213: -4327452543935829994
+    second: TinyRTSEnvironment_170
+  - first:
+      213: 2801452614128950547
+    second: TinyRTSEnvironment_171
+  - first:
+      213: -5650951627868646918
+    second: TinyRTSEnvironment_172
+  - first:
+      213: -2195103726263632862
+    second: TinyRTSEnvironment_173
+  - first:
+      213: -3172627018788389821
+    second: TinyRTSEnvironment_174
+  - first:
+      213: -4488666414115114178
+    second: TinyRTSEnvironment_175
+  - first:
+      213: -4478007187828636633
+    second: TinyRTSEnvironment_176
+  - first:
+      213: -3150308959377170269
+    second: TinyRTSEnvironment_177
+  - first:
+      213: 1363385012448758585
+    second: TinyRTSEnvironment_178
+  - first:
+      213: 918016791412834897
+    second: TinyRTSEnvironment_179
+  - first:
+      213: -4794845900278963255
+    second: TinyRTSEnvironment_180
+  - first:
+      213: 7286514982846889318
+    second: TinyRTSEnvironment_181
+  - first:
+      213: 8452454194319224911
+    second: TinyRTSEnvironment_182
+  - first:
+      213: 6224867576399507827
+    second: TinyRTSEnvironment_183
+  - first:
+      213: -5392064269635739825
+    second: TinyRTSEnvironment_184
+  - first:
+      213: -2238483110853260614
+    second: TinyRTSEnvironment_185
+  - first:
+      213: -1817496890424713038
+    second: TinyRTSEnvironment_186
+  - first:
+      213: 3952289927508760569
+    second: TinyRTSEnvironment_187
+  - first:
+      213: -6660259165880946174
+    second: TinyRTSEnvironment_188
+  - first:
+      213: 5891660289965183119
+    second: TinyRTSEnvironment_189
+  - first:
+      213: 5880692355233332928
+    second: TinyRTSEnvironment_190
+  - first:
+      213: 3719923850726422922
+    second: TinyRTSEnvironment_191
+  - first:
+      213: 6859178613682050811
+    second: TinyRTSEnvironment_192
+  - first:
+      213: -9214485620619715632
+    second: TinyRTSEnvironment_193
+  - first:
+      213: -1067029193096473802
+    second: TinyRTSEnvironment_194
+  - first:
+      213: -2437688219638360136
+    second: TinyRTSEnvironment_195
+  - first:
+      213: -934901342078553142
+    second: TinyRTSEnvironment_196
+  - first:
+      213: -7785436137117485139
+    second: TinyRTSEnvironment_193
+  - first:
+      213: -4651040098277974942
+    second: TinyRTSEnvironment_194
+  - first:
+      213: 8840979616686690790
+    second: TinyRTSEnvironment_195
+  - first:
+      213: -3517683638995132625
+    second: TinyRTSEnvironment_196
+  - first:
+      213: 7065765147182199994
+    second: TinyRTSEnvironment_197
+  - first:
+      213: -4177812480738485811
+    second: TinyRTSEnvironment_198
+  - first:
+      213: -4946335145524849586
+    second: TinyRTSEnvironment_199
+  - first:
+      213: 7015242031539748497
+    second: TinyRTSEnvironment_200
+  - first:
+      213: 918449160577643350
+    second: TinyRTSEnvironment_201
+  - first:
+      213: 9060252292834251851
+    second: TinyRTSEnvironment_202
+  - first:
+      213: -529559874441696127
+    second: TinyRTSEnvironment_203
+  - first:
+      213: -745956054647601254
+    second: TinyRTSEnvironment_204
+  - first:
+      213: -8126068040036349041
+    second: TinyRTSEnvironment_197
+  - first:
+      213: -99816876046872107
+    second: TinyRTSEnvironment_198
+  - first:
+      213: 6800145907467247927
+    second: TinyRTSEnvironment_199
+  - first:
+      213: -8673517759420010001
+    second: TinyRTSEnvironment_200
+  - first:
+      213: -4865121548915667657
+    second: TinyRTSEnvironment_201
+  - first:
+      213: -348850810019652558
+    second: TinyRTSEnvironment_202
+  - first:
+      213: 6763416803559354711
+    second: TinyRTSEnvironment_203
+  - first:
+      213: 396220432985527539
+    second: TinyRTSEnvironment_204
+  - first:
+      213: 1883296245889409128
+    second: TinyRTSEnvironment_205
+  - first:
+      213: 1201719146860636308
+    second: TinyRTSEnvironment_206
+  - first:
+      213: -8661682484205489710
+    second: TinyRTSEnvironment_205
+  - first:
+      213: -6493505046510565412
+    second: TinyRTSEnvironment_206
+  - first:
+      213: -4549205344957746993
+    second: TinyRTSEnvironment_207
+  - first:
+      213: 6961167432582739694
+    second: TinyRTSEnvironment_207
+  - first:
+      213: 4555083536118278789
+    second: TinyRTSEnvironment_208
+  - first:
+      213: 2143527151501036148
+    second: TinyRTSEnvironment_208
+  - first:
+      213: 2791679036408975514
+    second: TinyRTSEnvironment_209
+  - first:
+      213: 7132926153633372473
+    second: TinyRTSEnvironment_209
+  - first:
+      213: 1443449883902196414
+    second: TinyRTSEnvironment_210
+  - first:
+      213: -8965274856270577813
+    second: TinyRTSEnvironment_211
+  - first:
+      213: 8906594380406396734
+    second: TinyRTSEnvironment_212
+  - first:
+      213: 5185634659999251356
+    second: TinyRTSEnvironment_213
+  - first:
+      213: 1830123017531256287
+    second: TinyRTSEnvironment_214
+  - first:
+      213: 9025490644585867800
+    second: TinyRTSEnvironment_215
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488ee82555707f210800000000000000
+      internalID: 1366569074968946820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb2dd8ca2a3f9360800000000000000
+      internalID: 7178520286484835293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a8aa4eea6eeb8e0800000000000000
+      internalID: -1675648372500165989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227c62cf35ef07ad0800000000000000
+      internalID: -2706383739383527646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00aa7bba120c770b0800000000000000
+      internalID: -5730900749958272512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3525d1b61bf19b790800000000000000
+      internalID: -7513939656424205741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f241f0a8d1f9d2b0800000000000000
+      internalID: -5559146352296770826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2494bc7b712ea6e0800000000000000
+      internalID: -1824483984781568982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50078d3dee72cef20800000000000000
+      internalID: 3453178920996204549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38767129e36f012e0800000000000000
+      internalID: -2156953472911054973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e21d9af241c0b80800000000000000
+      internalID: -8427338607771963868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821ca3fc19152d950800000000000000
+      internalID: 6472325301173666088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f426c0bbc1f17c540800000000000000
+      internalID: 5028021717240144463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecc55fd91e7cca20800000000000000
+      internalID: 3083978494428171495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af27a716277ff2b40800000000000000
+      internalID: 5417820947383743226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b8b5c4297bd1780800000000000000
+      internalID: -8710604265290495156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762253f624786d520800000000000000
+      internalID: 2726515343822758503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30687792a6df53ae0800000000000000
+      internalID: -1570070262664690173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3ad26060e8bcbc0800000000000000
+      internalID: -3761756907213315137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae01d273a2fb8730800000000000000
+      internalID: 4002559477668712110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1c4068a8ae9f230800000000000000
+      internalID: 3673224851772195314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdd6af731a9d8d30800000000000000
+      internalID: 4435370616566504888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a83068b03a52970800000000000000
+      internalID: 8729562722615921298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1463deaa5f0d85fd0800000000000000
+      internalID: -2352901051747846591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46ddab8b90a24260800000000000000
+      internalID: 7080398154103641676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf500eabd68386ea0800000000000000
+      internalID: -5879387269594348037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e777d4e970ba3a0800000000000000
+      internalID: -6653215648023871962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657fdea1e9c962af0800000000000000
+      internalID: -421477312241993898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba52fe59cf69fd6f0800000000000000
+      internalID: -657641008981400149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780860232378bd590800000000000000
+      internalID: -7648370892501254009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e336878f382e65700800000000000000
+      internalID: 528859062699844414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1a98a56c7c2ce70800000000000000
+      internalID: 9134082648997208489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46234a486b3fe4160800000000000000
+      internalID: 7011809635097391716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b30b3b9f566b9cb0800000000000000
+      internalID: -4856175212376685647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7791b2a5a3fab10800000000000000
+      internalID: 1994877318892976125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72c7c02219dc0730800000000000000
+      internalID: 3966784043689165438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a029a03fc5160c10800000000000000
+      internalID: 2019325462541050020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b0ade64b5546350800000000000000
+      internalID: 6009022036261341976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a73a43e3a802410800000000000000
+      internalID: 1450311079789034117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_39
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6736ebcb50e463800800000000000000
+      internalID: 591746187594195830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d691969cbad1350800000000000000
+      internalID: 5989131961012677895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5529106075862a110800000000000000
+      internalID: 1270692767844110933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e58fb3a71fe3aa10800000000000000
+      internalID: 1919640751000487394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570d04a02e43036c0800000000000000
+      internalID: -4165771509878435723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e2639186babf5c0800000000000000
+      internalID: -4180559365495443851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c1f1240b5049120800000000000000
+      internalID: 2419565154386517058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a549f70ce7531230800000000000000
+      internalID: 3608324397711574439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_47
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610b97edf88ce0e80800000000000000
+      internalID: -8210404550411440106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f378c3b6cff719320800000000000000
+      internalID: 2562970385058137919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd63cc67b4fb4e50800000000000000
+      internalID: 6794793531459464700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1485f75bd474f0ec0800000000000000
+      internalID: -3598579178162661311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdd878853b085790800000000000000
+      internalID: -7541265251481100857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980d5287b6f060e70800000000000000
+      internalID: 9080962652890845321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cea3c0a70fc7b9f0800000000000000
+      internalID: -452665605858545976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe17ca6c69ed55f0800000000000000
+      internalID: -766199709725942022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc683ec1d4b2db8b0800000000000000
+      internalID: -5134900389935348021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacba2ea496a74710800000000000000
+      internalID: 1677492543726206125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_57
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92289aed60a6bd9c0800000000000000
+      internalID: -3901408074448403927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5469b25f39c5d1280800000000000000
+      internalID: -9070992283911088571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_59
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3917de375194dbc0800000000000000
+      internalID: -3759219985045055170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b1d591d64c19ea0800000000000000
+      internalID: -5867692866631034066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df6d78dae63860a0800000000000000
+      internalID: -6888195247780827179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ebebdbcd101ce60800000000000000
+      internalID: 7980662062265056868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_63
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0d778a4a69d7950800000000000000
+      internalID: 6448475875409645814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a03e5dec0d47ff0800000000000000
+      internalID: -39176909969225144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_65
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf01f5bab3d89d10800000000000000
+      internalID: 2132687222429781956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d4654714b2e29f0800000000000000
+      internalID: -491407749212123845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_67
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aefd349b8bbd28a0800000000000000
+      internalID: -6328195693223739737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dc5c48b5c90c120800000000000000
+      internalID: 2432115715663580424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_69
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efcd515e106791b0800000000000000
+      internalID: -5649941524182609950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb0c066be4a19ed0800000000000000
+      internalID: -2408962994730169382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689ba6b94bfe01300800000000000000
+      internalID: 220939940721768838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acdcc4da3b29b810800000000000000
+      internalID: 1781502659280034983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4902962fa2df2a0800000000000000
+      internalID: -6702153449823234842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d1e6d7440a53120800000000000000
+      internalID: 2392994993039875371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_75
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fa2094db9637970800000000000000
+      internalID: 8751454762605653807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dee7e7b90929210800000000000000
+      internalID: 1338291036799036780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_77
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203a239ad3224f4b0800000000000000
+      internalID: -5407659604338105598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_78
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1477c44d8b8d38130800000000000000
+      internalID: 3567933618154927937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_79
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf0e0eaae2d6a420800000000000000
+      internalID: 2641030136883711944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3020fc1a0d5b3be0800000000000000
+      internalID: -1496500153154002886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29091daf8e2e81710800000000000000
+      internalID: 1664329552581726354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862d8faf6b8b61500800000000000000
+      internalID: 366683515711443560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_83
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1150b1e07fc7ea140800000000000000
+      internalID: 4732857658948388113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3061e144fe6c44d70800000000000000
+      internalID: 9026558284099622403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5804951330836e080800000000000000
+      internalID: -9158571205847334779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c542f870b7c9150800000000000000
+      internalID: 5880710485835537446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_87
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9765278f435f0b920800000000000000
+      internalID: 3004170559311468153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b3f560015bf39c0800000000000000
+      internalID: -3945235668122256489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_89
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a521dea234e55d4d0800000000000000
+      internalID: -3110476325053459878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_90
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2465e4a482c2d6aa0800000000000000
+      internalID: -6166223763243379134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_91
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27616632cb544a870800000000000000
+      internalID: 8693149855081961074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd558da5608bc960800000000000000
+      internalID: 7623327968445947325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19df4bf8976bc4600800000000000000
+      internalID: 453938295675878801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_94
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3af9efad76730890800000000000000
+      internalID: -7493015072820037060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_95
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c78774e4e96b93b0800000000000000
+      internalID: -5504689687723800635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_96
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dc120c3d2bc4300800000000000000
+      internalID: 237761502875077980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df6f428a2de0b2e0800000000000000
+      internalID: -2111927458406109224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_98
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff9142bfea937e10800000000000000
+      internalID: 2194267797738070009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_99
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4785c4e9e411d5070800000000000000
+      internalID: 8096646734442944628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_100
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be013736eba9aac30800000000000000
+      internalID: 4371476530819436779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4873a6d578ea09220800000000000000
+      internalID: 2490682490346944388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_102
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f55727157c7ddb0800000000000000
+      internalID: -4767122527921807492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d338a3aaf60a900800000000000000
+      internalID: 693677119531859319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_104
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8e6ac6b86cc1ad0800000000000000
+      internalID: -2730088971967731542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30721c970477ce650800000000000000
+      internalID: 6263512300569831171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_106
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2517b79f1bf8c9b20800000000000000
+      internalID: 3142544634555363666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_107
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba52c5cbe3338c40800000000000000
+      internalID: 5513307456559798972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044da08db5350e2a0800000000000000
+      internalID: -6710271790850321344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_109
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590785ac74d91f4d0800000000000000
+      internalID: -3102525736618528619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_110
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1a8f09c1272d8d0800000000000000
+      internalID: -2823068549391015452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_111
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e014236b7e36590800000000000000
+      internalID: -7682041769650745784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_112
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aed0d0f2b4096eb0800000000000000
+      internalID: -4726241167357714779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_113
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408e5ed13909c54f0800000000000000
+      internalID: -838636469061556220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_114
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb798ceb20347690800000000000000
+      internalID: -7605400905511765010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_115
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81ae94439d7232a0800000000000000
+      internalID: -6759202019264781938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a478e1792fb8d90800000000000000
+      internalID: -7094310057125918141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_117
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65aaeea4977d3d00800000000000000
+      internalID: 954050176545891695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_118
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83379e85f06087370800000000000000
+      internalID: 8320406974552961848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_119
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f8e0b536e9a0860800000000000000
+      internalID: 7496978679278243668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_120
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b16149fb0297b60800000000000000
+      internalID: 7744257041435597688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_121
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6db5a63022b87c0800000000000000
+      internalID: -4068120440334461188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_122
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118774436590e1ee0800000000000000
+      internalID: -1288582177532446703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_123
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc10786048cc0a30800000000000000
+      internalID: 4182938332875988152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023067c0bea291a20800000000000000
+      internalID: 3033503013025481504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_125
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729dccdf76eceb490800000000000000
+      internalID: -7728512964486178521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_126
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17b2fe8d6d111450800000000000000
+      internalID: 6057655330176939807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_127
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918dcb396841743e0800000000000000
+      internalID: -2069662935516653543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_128
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbabc0693ffd4240800000000000000
+      internalID: 4777755401612143540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_129
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0b3d473af2be160800000000000000
+      internalID: 7055785620292219088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_130
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f4e084322f80e20800000000000000
+      internalID: 3317167358905044756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_131
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498c42926baaf8880800000000000000
+      internalID: -8606472663530682220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8861df38eb0a276b0800000000000000
+      internalID: -5299997071343020408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_133
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcce368b5d563c50800000000000000
+      internalID: 6644600947907415216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_134
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c6e287859f93a10800000000000000
+      internalID: 1889815677027380361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_135
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd98bfffd8eea9d0800000000000000
+      internalID: -2761013472765895229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_136
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2970d607c7012efc0800000000000000
+      internalID: -3467190636473677934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_137
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6ab8674088b3e60800000000000000
+      internalID: 7943091920548112073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_138
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03350dd0f9f7c1590800000000000000
+      internalID: -7702140941602106576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_139
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82ce1f26f8b3d160800000000000000
+      internalID: 7049181209256968845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc9a191f8acac290800000000000000
+      internalID: -7869254682926211910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_141
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfd6f4cf30df9040800000000000000
+      internalID: 4656669512030412740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_142
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0914f7d0ef25ca760800000000000000
+      internalID: 7470437133002424720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_143
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1723a73288c00b0800000000000000
+      internalID: -5761080137358347803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_144
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aba44cefe60209d0800000000000000
+      internalID: -2809675589994894432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d57a9a105573da0800000000000000
+      internalID: -5965205715799286422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_146
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b6bcdfef74c6e00800000000000000
+      internalID: 1039284774520974198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_147
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26aaf62ca508dcf0800000000000000
+      internalID: -227425544235735508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_148
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113a19e86613fe300800000000000000
+      internalID: 283499618095964945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_149
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d376012933e71ae0800000000000000
+      internalID: -1578543309863357479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_150
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89635842229e09780800000000000000
+      internalID: -8678180149092075880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_151
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63f9a8693ed61530800000000000000
+      internalID: 3825489271648285551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_152
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d319722c915c89ce0800000000000000
+      internalID: -1398150969876311747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_153
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827656c1a6b1c91d0800000000000000
+      internalID: -3342766680858859736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_154
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024806823c7d80600800000000000000
+      internalID: 434834597237261344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_155
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9e3efc016ed0e80800000000000000
+      internalID: -8210653585744860719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_156
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068bd1fabad5ae9f0800000000000000
+      internalID: -438435021756450720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_157
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308e8d04426fb2470800000000000000
+      internalID: 8371054967965411331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_158
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b6cb03fb0d81380800000000000000
+      internalID: -9000214335724950759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_159
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f9cb494b7258510800000000000000
+      internalID: 1550689303241989996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_160
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcac92dc5e1b1d10800000000000000
+      internalID: 2097303435490405629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fd16d3b0c113d00800000000000000
+      internalID: 950571830951927654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_162
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6c146d69e7530f0800000000000000
+      internalID: -1137864144536353095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_163
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffde8e9d66729060800000000000000
+      internalID: 6958754587424514034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_164
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7a886d33950b550800000000000000
+      internalID: 6174533168302434302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_165
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0106f4fc741bb80800000000000000
+      internalID: -8380838475844284212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_166
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39dcb0a85ab1e7c0800000000000000
+      internalID: -4043746100585375425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_167
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc639bb48e5065a0800000000000000
+      internalID: -6530115535511524112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_168
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9658cf60f81f0fa0800000000000000
+      internalID: -5832415571474884964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_169
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f6327f62c46c640800000000000000
+      internalID: 5099847358282428271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_170
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6182850d6dcc1f3c0800000000000000
+      internalID: -4327452543935829994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_171
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dde305f42c0e620800000000000000
+      internalID: 2801452614128950547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_172
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af159f93f69c391b0800000000000000
+      internalID: -5650951627868646918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_173
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c7be68acc6981e0800000000000000
+      internalID: -2195103726263632862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_174
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cbf44298098f3d0800000000000000
+      internalID: -3172627018788389821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_175
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e333177adad05b1c0800000000000000
+      internalID: -4488666414115114178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_176
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72404db203cead1c0800000000000000
+      internalID: -4478007187828636633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_177
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0e79741bad744d0800000000000000
+      internalID: -3150308959377170269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_178
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b891ff177bbe210800000000000000
+      internalID: 1363385012448758585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_179
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152810e68637dbc00800000000000000
+      internalID: 918016791412834897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_180
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c36221de09457db0800000000000000
+      internalID: -4794845900278963255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_181
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d762375c6ee1560800000000000000
+      internalID: 7286514982846889318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_182
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4078a48e462d4570800000000000000
+      internalID: 8452454194319224911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_183
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371b329741c236650800000000000000
+      internalID: 6224867576399507827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_184
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f194a7d1a8b25b0800000000000000
+      internalID: -5392064269635739825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_185
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba41ed787f4fe0e0800000000000000
+      internalID: -2238483110853260614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_186
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0abd92534f6c6e0800000000000000
+      internalID: -1817496890424713038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_187
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7938abfba59d630800000000000000
+      internalID: 3952289927508760569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_188
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20270a183910293a0800000000000000
+      internalID: -6660259165880946174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_189
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8056a081d163c150800000000000000
+      internalID: 5891660289965183119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_190
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ceb9033a8a6c9150800000000000000
+      internalID: 5880692355233332928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_191
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a893d028803df9330800000000000000
+      internalID: 3719923850726422922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_192
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6997f8b92b03f50800000000000000
+      internalID: 6859178613682050811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_193
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da77f91151394f390800000000000000
+      internalID: -7785436137117485139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_194
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c1b024caf247fb0800000000000000
+      internalID: -4651040098277974942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_195
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1541fae1871ba70800000000000000
+      internalID: 8840979616686690790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_196
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fdd792e5dae2fc0800000000000000
+      internalID: -3517683638995132625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TinyRTSEnvironment_197
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b8afcdb286a3f80800000000000000
+      internalID: -8126068040036349041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
