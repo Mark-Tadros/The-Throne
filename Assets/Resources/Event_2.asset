@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b3fd9154634ebdb8c8a48960b9a16a, type: 3}
+  m_Name: Event_2
+  m_EditorClassIdentifier: 
+  NodeLinks:
+  - BaseNodeGUID: 4654f275-37fa-427c-87bc-cbadc41f5954
+    PortName: Next
+    TargetNodeGUID: 35055834-c6ae-4dd6-a033-94f4cedc9e0c
+  - BaseNodeGUID: 35055834-c6ae-4dd6-a033-94f4cedc9e0c
+    PortName: Option 1
+    TargetNodeGUID: 2a33a176-5e4d-4bc8-b13e-cb37694cd398
+  - BaseNodeGUID: 2a33a176-5e4d-4bc8-b13e-cb37694cd398
+    PortName: Option 1
+    TargetNodeGUID: ed8b3dd8-d81a-4bd0-8630-68367006059d
+  DialogueNodeData:
+  - NodeGUID: 35055834-c6ae-4dd6-a033-94f4cedc9e0c
+    DialogueText: $Intro$You recieve word that $Title1$ has finished their journey.
+      There is a message alongside the raven.
+    Position: {x: 189, y: 199}
+  - NodeGUID: 2a33a176-5e4d-4bc8-b13e-cb37694cd398
+    DialogueText: $One$My liege, I have made plans to expand our control, a farm
+      will allow for a more profitable season. We shall discuss this when I'm back.
+    Position: {x: 986, y: 198}
+  - NodeGUID: ed8b3dd8-d81a-4bd0-8630-68367006059d
+    DialogueText: $Event$Travel Home,,
+    Position: {x: 1965, y: 198}
+  ExposedProperties: []
+  CommentBlockData: []

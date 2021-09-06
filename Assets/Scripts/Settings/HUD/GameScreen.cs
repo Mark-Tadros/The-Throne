@@ -200,7 +200,7 @@ public class GameScreen : MonoBehaviour
         LeanTween.value(this.gameObject, SetAlpha, 0.9f, 0, 2f).setEase(LeanTweenType.easeInOutQuad);
         yield return new WaitForSeconds(2f);
         AIManagerScript.Initialise();
-        yield return new WaitUntil(() => PCGScript.gameManagerScript.saveData.currentEvents.Count != 0);
+        yield return new WaitUntil(() => PCGScript.gameManagerScript.saveData.currentEvents.Count != 0 && PCGScript.AIManagerScript.storyManagerScript.Events.childCount != 0);
         LeanTween.value(this.gameObject, SetAlphaLast, 0, 0.95f, 1.5f).setEase(LeanTweenType.easeInOutQuad);
         yield return new WaitForSeconds(1.5f);
         yield return new WaitUntil(() => PCGScript.gameManagerScript.Dialogue);

@@ -135,5 +135,5 @@ public class SaveData
     public List<int> Resources; public List<int> ResourcesX; public List<int> ResourcesY;
     public List<int> Homes; public List<string> Names; public List<string> Titles; public List<int> Portraits; public List<bool> Allies; public List<int> UnitsX; public List<int> UnitsY; public List<string> Schedules;
     public List<int> usedEvents; public List<int> currentEvents; public List<int> Events; public List<int> EventsX; public List<int> EventsY; public List<string> eventsPeople;
-    public float masterVolume; public float musicVolume; public float sfxVolume;
+    public float masterVolume = -1; public float musicVolume = -1; public float sfxVolume = -1;
 }

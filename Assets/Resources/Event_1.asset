@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b3fd9154634ebdb8c8a48960b9a16a, type: 3}
+  m_Name: Event_1
+  m_EditorClassIdentifier: 
+  NodeLinks:
+  - BaseNodeGUID: 4654f275-37fa-427c-87bc-cbadc41f5954
+    PortName: Next
+    TargetNodeGUID: 35055834-c6ae-4dd6-a033-94f4cedc9e0c
+  - BaseNodeGUID: ee35aa43-7d17-4f59-87f5-1b0c2e48c5da
+    PortName: Option 1
+    TargetNodeGUID: f270e81c-b454-4de9-8f24-b574e2130737
+  - BaseNodeGUID: 2a33a176-5e4d-4bc8-b13e-cb37694cd398
+    PortName: Option 1
+    TargetNodeGUID: ee35aa43-7d17-4f59-87f5-1b0c2e48c5da
+  - BaseNodeGUID: 35055834-c6ae-4dd6-a033-94f4cedc9e0c
+    PortName: Option 1
+    TargetNodeGUID: 2a33a176-5e4d-4bc8-b13e-cb37694cd398
+  - BaseNodeGUID: f270e81c-b454-4de9-8f24-b574e2130737
+    PortName: Option 1
+    TargetNodeGUID: 26cf33e7-bd97-4d87-9f29-be3db45bd791
+  - BaseNodeGUID: 26cf33e7-bd97-4d87-9f29-be3db45bd791
+    PortName: Option 1
+    TargetNodeGUID: d1682194-17b5-4c3f-80a5-86f2b5917435
+  - BaseNodeGUID: d1682194-17b5-4c3f-80a5-86f2b5917435
+    PortName: Option 1
+    TargetNodeGUID: 220359b9-5b39-43fd-b3c4-aee77bd0b385
+  - BaseNodeGUID: 220359b9-5b39-43fd-b3c4-aee77bd0b385
+    PortName: Option 1
+    TargetNodeGUID: 018f3c0d-3f10-496a-8af5-ffdc6e13f07c
+  - BaseNodeGUID: 220359b9-5b39-43fd-b3c4-aee77bd0b385
+    PortName: Option 2
+    TargetNodeGUID: c32e7e08-6025-46e0-b4e5-fdce7608ca8e
+  - BaseNodeGUID: 220359b9-5b39-43fd-b3c4-aee77bd0b385
+    PortName: Option 3
+    TargetNodeGUID: 50fdcfdd-6a10-449c-a793-1ee011cd70b5
+  - BaseNodeGUID: c32e7e08-6025-46e0-b4e5-fdce7608ca8e
+    PortName: Option 1
+    TargetNodeGUID: 1730d208-71fe-4215-8380-9a4d31a45794
+  - BaseNodeGUID: 018f3c0d-3f10-496a-8af5-ffdc6e13f07c
+    PortName: Option 1
+    TargetNodeGUID: 06cc25c2-3c0a-4b81-bfe0-e6eb3c041276
+  - BaseNodeGUID: 1730d208-71fe-4215-8380-9a4d31a45794
+    PortName: Option 1
+    TargetNodeGUID: 6ccff438-6631-4d51-a2ac-58931fe9a131
+  - BaseNodeGUID: 06cc25c2-3c0a-4b81-bfe0-e6eb3c041276
+    PortName: Option 1
+    TargetNodeGUID: d656e967-3203-46b6-8f8e-e9490e9f1e74
+  - BaseNodeGUID: d656e967-3203-46b6-8f8e-e9490e9f1e74
+    PortName: Option 1
+    TargetNodeGUID: ed8b3dd8-d81a-4bd0-8630-68367006059d
+  - BaseNodeGUID: 6ccff438-6631-4d51-a2ac-58931fe9a131
+    PortName: Option 1
+    TargetNodeGUID: bf919724-e4cd-4434-81c8-89ad5331286c
+  DialogueNodeData:
+  - NodeGUID: ee35aa43-7d17-4f59-87f5-1b0c2e48c5da
+    DialogueText: $Two$Counsel No Needed. Men Needed. Stop War Needed.
+    Position: {x: 1471, y: 200}
+  - NodeGUID: 2a33a176-5e4d-4bc8-b13e-cb37694cd398
+    DialogueText: $One$My liege, thank you for accepting our counsel.
+    Position: {x: 1013, y: 199}
+  - NodeGUID: 35055834-c6ae-4dd6-a033-94f4cedc9e0c
+    DialogueText: $Intro$As you get accustomed to your throne you hear $Title1$ and
+      $Title2$ forcibly stumble into your chambers.
+    Position: {x: 188, y: 200}
+  - NodeGUID: f270e81c-b454-4de9-8f24-b574e2130737
+    DialogueText: $Narrate$$Title1$ lets out a sigh.
+    Position: {x: 1955, y: 200}
+  - NodeGUID: 26cf33e7-bd97-4d87-9f29-be3db45bd791
+    DialogueText: $One$What we need is money and resources, no one will attack a
+      newly crowned ruler.
+    Position: {x: 2288, y: 200}
+  - NodeGUID: d1682194-17b5-4c3f-80a5-86f2b5917435
+    DialogueText: $Two$No. Young Ruler Only Time Attack. Weak City. Weak Army. Now
+      Attack.
+    Position: {x: 2959, y: 201}
+  - NodeGUID: 220359b9-5b39-43fd-b3c4-aee77bd0b385
+    DialogueText: $One$I guess you must make a choice my liege, the army or the treasury.
+    Position: {x: 3556, y: 200}
+  - NodeGUID: c32e7e08-6025-46e0-b4e5-fdce7608ca8e
+    DialogueText: Him,Her,Them,Army,Men,War
+    Position: {x: 4167, y: 227}
+  - NodeGUID: 018f3c0d-3f10-496a-8af5-ffdc6e13f07c
+    DialogueText: You,Treasure,Treasury,Gold,Resources
+    Position: {x: 4170, y: 127}
+  - NodeGUID: 50fdcfdd-6a10-449c-a793-1ee011cd70b5
+    DialogueText: $One$I didn't catch that my liege, the treasury or the army.
+    Position: {x: 4172, y: 366}
+  - NodeGUID: 1730d208-71fe-4215-8380-9a4d31a45794
+    DialogueText: Narrate$And so the young ruler made their choice, to strengthen
+      their defenses.
+    Position: {x: 4553, y: 226}
+  - NodeGUID: 06cc25c2-3c0a-4b81-bfe0-e6eb3c041276
+    DialogueText: $Narrate$And so the young ruler made their choice, to expand their
+      treasury.
+    Position: {x: 4557, y: 127}
+  - NodeGUID: d656e967-3203-46b6-8f8e-e9490e9f1e74
+    DialogueText: $One$Thank you my liege, I shall begin hiring the workers.
+    Position: {x: 5177, y: 126}
+  - NodeGUID: 6ccff438-6631-4d51-a2ac-58931fe9a131
+    DialogueText: $Two$No War. Men. Strength. Stop War. I Hire Warriors.
+    Position: {x: 5185, y: 224}
+  - NodeGUID: bf919724-e4cd-4434-81c8-89ad5331286c
+    DialogueText: $Event$,Patrol Home,Create Unit 7
+    Position: {x: 5683, y: 223}
+  - NodeGUID: ed8b3dd8-d81a-4bd0-8630-68367006059d
+    DialogueText: $Event$,Patrol Home,Create Unit 5-Event:4.$Unit0$.Castle
+    Position: {x: 5681, y: 124}
+  ExposedProperties: []
+  CommentBlockData: []

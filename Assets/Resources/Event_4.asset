@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78b3fd9154634ebdb8c8a48960b9a16a, type: 3}
+  m_Name: Event_4
+  m_EditorClassIdentifier: 
+  NodeLinks:
+  - BaseNodeGUID: 4654f275-37fa-427c-87bc-cbadc41f5954
+    PortName: Next
+    TargetNodeGUID: 35055834-c6ae-4dd6-a033-94f4cedc9e0c
+  - BaseNodeGUID: 35055834-c6ae-4dd6-a033-94f4cedc9e0c
+    PortName: Option 1
+    TargetNodeGUID: 2a33a176-5e4d-4bc8-b13e-cb37694cd398
+  - BaseNodeGUID: 2a33a176-5e4d-4bc8-b13e-cb37694cd398
+    PortName: Option 1
+    TargetNodeGUID: 220359b9-5b39-43fd-b3c4-aee77bd0b385
+  - BaseNodeGUID: 220359b9-5b39-43fd-b3c4-aee77bd0b385
+    PortName: Option 1
+    TargetNodeGUID: 018f3c0d-3f10-496a-8af5-ffdc6e13f07c
+  - BaseNodeGUID: 220359b9-5b39-43fd-b3c4-aee77bd0b385
+    PortName: Option 2
+    TargetNodeGUID: c32e7e08-6025-46e0-b4e5-fdce7608ca8e
+  - BaseNodeGUID: 220359b9-5b39-43fd-b3c4-aee77bd0b385
+    PortName: Option 3
+    TargetNodeGUID: 50fdcfdd-6a10-449c-a793-1ee011cd70b5
+  - BaseNodeGUID: 018f3c0d-3f10-496a-8af5-ffdc6e13f07c
+    PortName: Option 1
+    TargetNodeGUID: 06cc25c2-3c0a-4b81-bfe0-e6eb3c041276
+  - BaseNodeGUID: c32e7e08-6025-46e0-b4e5-fdce7608ca8e
+    PortName: Option 1
+    TargetNodeGUID: 1730d208-71fe-4215-8380-9a4d31a45794
+  - BaseNodeGUID: 06cc25c2-3c0a-4b81-bfe0-e6eb3c041276
+    PortName: Option 1
+    TargetNodeGUID: d656e967-3203-46b6-8f8e-e9490e9f1e74
+  - BaseNodeGUID: 1730d208-71fe-4215-8380-9a4d31a45794
+    PortName: Option 1
+    TargetNodeGUID: 6ccff438-6631-4d51-a2ac-58931fe9a131
+  - BaseNodeGUID: d656e967-3203-46b6-8f8e-e9490e9f1e74
+    PortName: Option 1
+    TargetNodeGUID: ed8b3dd8-d81a-4bd0-8630-68367006059d
+  - BaseNodeGUID: 6ccff438-6631-4d51-a2ac-58931fe9a131
+    PortName: Option 1
+    TargetNodeGUID: bf919724-e4cd-4434-81c8-89ad5331286c
+  DialogueNodeData:
+  - NodeGUID: 35055834-c6ae-4dd6-a033-94f4cedc9e0c
+    DialogueText: $Intro$$Title1$ comes to your chambers alone this time, a gleeful
+      expression on their face.
+    Position: {x: 189, y: 199}
+  - NodeGUID: 2a33a176-5e4d-4bc8-b13e-cb37694cd398
+    DialogueText: $One$My liege, I have discovered a nearby gold mine available for
+      our possession.
+    Position: {x: 880, y: 199}
+  - NodeGUID: 220359b9-5b39-43fd-b3c4-aee77bd0b385
+    DialogueText: $One$At your word I can send workers there immediately.
+    Position: {x: 1522, y: 196}
+  - NodeGUID: 018f3c0d-3f10-496a-8af5-ffdc6e13f07c
+    DialogueText: No,N,Never,Stop
+    Position: {x: 2062, y: 121}
+  - NodeGUID: 50fdcfdd-6a10-449c-a793-1ee011cd70b5
+    DialogueText: $One$I didn't catch that my liege, yes or no?
+    Position: {x: 2065, y: 332}
+  - NodeGUID: c32e7e08-6025-46e0-b4e5-fdce7608ca8e
+    DialogueText: Yes,Yeah,Y,Go,Okay,Fine
+    Position: {x: 2061, y: 219}
+  - NodeGUID: 06cc25c2-3c0a-4b81-bfe0-e6eb3c041276
+    DialogueText: $Narrate$And so the young ruler decided to play it safe.
+    Position: {x: 2362, y: 121}
+  - NodeGUID: 1730d208-71fe-4215-8380-9a4d31a45794
+    DialogueText: $Narrate$And so the young ruler decided to take the risk.
+    Position: {x: 2361, y: 219}
+  - NodeGUID: d656e967-3203-46b6-8f8e-e9490e9f1e74
+    DialogueText: $One$I understand my liege, I shall call it off.
+    Position: {x: 2868, y: 119}
+  - NodeGUID: 6ccff438-6631-4d51-a2ac-58931fe9a131
+    DialogueText: $One$Thank you my liege, endless gold awaits.
+    Position: {x: 2868, y: 220}
+  - NodeGUID: ed8b3dd8-d81a-4bd0-8630-68367006059d
+    DialogueText: $Event$,,
+    Position: {x: 3302, y: 120}
+  - NodeGUID: bf919724-e4cd-4434-81c8-89ad5331286c
+    DialogueText: $Event$,,Create Unit 6
+    Position: {x: 3305, y: 221}
+  ExposedProperties: []
+  CommentBlockData: []

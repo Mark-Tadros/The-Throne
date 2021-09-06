@@ -88,10 +88,14 @@ public class unitManager : MonoBehaviour
     {
         yield return new WaitUntil(() => PCGScript.AIManagerScript.Initialised);
         if (Schedule.Contains("Patrol") || Schedule.Contains("Gather")) yield return new WaitForSeconds(Random.Range(5f, 10f));
-        yield return new WaitUntil(() => !PCGScript.Grid.CheckWall(Mathf.RoundToInt(Model.transform.position.x), Mathf.RoundToInt(Model.transform.position.z - 1)));
         yield return new WaitForSeconds(1.5f);
         yield return new WaitUntil(() => !PCGScript.Grid.CheckWall(Mathf.RoundToInt(Model.transform.position.x), Mathf.RoundToInt(Model.transform.position.z - 1)));
-        if (Schedule.Contains("Patrol")) PCGScript.AIManagerScript.ActionText(Name + " " + Title.ToLower() + " is going to go out on a short patrol.");
+        if (Schedule.Contains("Event")) { OnSchedule(); yield break; }
+        if (Schedule.Contains("Patrol"))
+        {
+            if (Title == "Warrior") PCGScript.AIManagerScript.ActionText(Name + " is going to go out on a short patrol.");
+            else PCGScript.AIManagerScript.ActionText(Name + " " + Title.ToLower() + " is going to go out on a short patrol.");
+        }
         if (Schedule.Contains("Resources")) PCGScript.AIManagerScript.ActionText(Name + " is going to go gather some resources.");
         if (Schedule.Contains("Mine")) PCGScript.AIManagerScript.ActionText(Name + " is going to go work in the mines.");
         IsOutdoors();
@@ -123,6 +127,7 @@ public class unitManager : MonoBehaviour
         if (Schedule.Contains("Gather")) StartCoroutine(Travel(PCGScript.Buildings.transform.GetChild(Home).GetChild(0).position));
         else
         {
+            if (!Schedule.Contains("Patrol")) OnSchedule();
             if (Random.value < 0.5f) StartCoroutine(Travel(PCGScript.Buildings.transform.GetChild(Home).GetChild(0).position));
             else StartCoroutine(Patrol(PCGScript.Buildings.transform.GetChild(Home).GetChild(0).position));
         }
@@ -291,7 +296,7 @@ public class unitManager : MonoBehaviour
                             Model.GetComponent<pathfindingManager>().AIManagerScript.Buildings.GetChild(whichBuilding).GetChild(1).gameObject.SetActive(true);
                             Model.GetComponent<pathfindingManager>().AIManagerScript.Buildings.GetChild(whichBuilding).GetChild(1).GetComponent<FOWTrigger>().Trigger(PCGScript.FOWTilemap, PCGScript.gameManagerScript);
                         }
-                        if (Title == "Peasant") { Destroy(Icon.gameObject); return; }
+                        if (Title == "Peasant" || Title == "Warrior") { Destroy(Icon.gameObject); return; }
                         Icon.transform.position = Model.GetComponent<pathfindingManager>().AIManagerScript.Buildings.GetChild(i).GetChild(2).GetChild(x).transform.position;
                         Icon.transform.parent = Model.GetComponent<pathfindingManager>().AIManagerScript.Buildings.GetChild(i).GetChild(2).GetChild(x).transform;
                         break;
@@ -320,7 +325,7 @@ public class unitManager : MonoBehaviour
         UpdatePosition(new Vector2(Model.transform.position.x, Model.transform.position.z));
         PCGScript.AIManagerScript.Grid.SetWall(Mathf.RoundToInt(Model.transform.position.x), Mathf.RoundToInt(Model.transform.position.z));
         Model.GetComponent<pathfindingManager>().isIndoors = false;
-        if (Title == "Peasant") return;
+        if (Title == "Peasant" || Title == "Warrior") return;
         // Moves all the portraits up one once this one is removed.
         Transform Portraits = iconObject.transform.parent.parent;
         iconObject.transform.parent = Portraits.parent;

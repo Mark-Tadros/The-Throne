@@ -64,7 +64,7 @@ public class SaveMenu : MonoBehaviour
         gameManagerScript.saveData.usedEvents = new List<int>(); gameManagerScript.saveData.currentEvents = new List<int>();
         gameManagerScript.saveData.Events = new List<int>(); gameManagerScript.saveData.EventsX = new List<int>(); gameManagerScript.saveData.EventsY = new List<int>(); gameManagerScript.saveData.eventsPeople = new List<string>();
         // Settings
-        gameManagerScript.saveData.masterVolume = 7; gameManagerScript.saveData.musicVolume = 3; gameManagerScript.saveData.sfxVolume = 5;
+        if (gameManagerScript.saveData.masterVolume == -1) { gameManagerScript.saveData.masterVolume = 7; gameManagerScript.saveData.musicVolume = 3; gameManagerScript.saveData.sfxVolume = 5; }
         Save();
     }
     string CreateName(string Title)

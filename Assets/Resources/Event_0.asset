@@ -34,6 +34,12 @@ MonoBehaviour:
   - BaseNodeGUID: d1682194-17b5-4c3f-80a5-86f2b5917435
     PortName: Option 1
     TargetNodeGUID: 220359b9-5b39-43fd-b3c4-aee77bd0b385
+  - BaseNodeGUID: 018f3c0d-3f10-496a-8af5-ffdc6e13f07c
+    PortName: Option 1
+    TargetNodeGUID: 06cc25c2-3c0a-4b81-bfe0-e6eb3c041276
+  - BaseNodeGUID: c32e7e08-6025-46e0-b4e5-fdce7608ca8e
+    PortName: Option 1
+    TargetNodeGUID: 1730d208-71fe-4215-8380-9a4d31a45794
   - BaseNodeGUID: 220359b9-5b39-43fd-b3c4-aee77bd0b385
     PortName: Option 1
     TargetNodeGUID: 018f3c0d-3f10-496a-8af5-ffdc6e13f07c
@@ -43,18 +49,12 @@ MonoBehaviour:
   - BaseNodeGUID: 220359b9-5b39-43fd-b3c4-aee77bd0b385
     PortName: Option 3
     TargetNodeGUID: 50fdcfdd-6a10-449c-a793-1ee011cd70b5
-  - BaseNodeGUID: 018f3c0d-3f10-496a-8af5-ffdc6e13f07c
-    PortName: Option 1
-    TargetNodeGUID: 06cc25c2-3c0a-4b81-bfe0-e6eb3c041276
   - BaseNodeGUID: 1730d208-71fe-4215-8380-9a4d31a45794
     PortName: Option 1
     TargetNodeGUID: 6ccff438-6631-4d51-a2ac-58931fe9a131
   - BaseNodeGUID: 06cc25c2-3c0a-4b81-bfe0-e6eb3c041276
     PortName: Option 1
     TargetNodeGUID: d656e967-3203-46b6-8f8e-e9490e9f1e74
-  - BaseNodeGUID: c32e7e08-6025-46e0-b4e5-fdce7608ca8e
-    PortName: Option 1
-    TargetNodeGUID: 1730d208-71fe-4215-8380-9a4d31a45794
   - BaseNodeGUID: d656e967-3203-46b6-8f8e-e9490e9f1e74
     PortName: Option 1
     TargetNodeGUID: ed8b3dd8-d81a-4bd0-8630-68367006059d
@@ -63,64 +63,61 @@ MonoBehaviour:
     TargetNodeGUID: bf919724-e4cd-4434-81c8-89ad5331286c
   DialogueNodeData:
   - NodeGUID: 35055834-c6ae-4dd6-a033-94f4cedc9e0c
-    DialogueText: $Intro$$Title1$ and $Title2$ come to your chambers, both stumbling
-      over each other in demands of an audience with the young and newly appointed
-      crown.
+    DialogueText: $Intro$$Title1$ and $Title2$ come to your chambers with tense glares
+      pointed at the other.
     Position: {x: 189, y: 199}
   - NodeGUID: 2a33a176-5e4d-4bc8-b13e-cb37694cd398
-    DialogueText: $One$My liege, my deepest condolences for what has occured.
-    Position: {x: 1279, y: 199}
+    DialogueText: $One$My liege, my thanks for allowing this meet.
+    Position: {x: 880, y: 199}
   - NodeGUID: ee35aa43-7d17-4f59-87f5-1b0c2e48c5da
-    DialogueText: $Two$Indeed. I hope you know that I, and the Church, are here whenever
-      needed.
-    Position: {x: 1799, y: 199}
+    DialogueText: $Two$Indeed, the compassion in your rule knows no bounds.
+    Position: {x: 1327, y: 199}
   - NodeGUID: f270e81c-b454-4de9-8f24-b574e2130737
-    DialogueText: $Narrate$They both glare at each other briefly, before returning
-      to you.
-    Position: {x: 2448, y: 199}
+    DialogueText: $Narrate$Their glares turn to daggers as their empty words ring
+      around the throne.
+    Position: {x: 1843, y: 199}
   - NodeGUID: 26cf33e7-bd97-4d87-9f29-be3db45bd791
-    DialogueText: $One$However, there is much to be done. there is still money in
-      the treasury and I hope you use it to expand, our greatest priority should
-      be to go out and gather resources.
-    Position: {x: 3035, y: 199}
+    DialogueText: $One$As is your right upon the throne you sit on, I plead you refuse
+      these oncoming demands.
+    Position: {x: 2501, y: 199}
   - NodeGUID: d1682194-17b5-4c3f-80a5-86f2b5917435
-    DialogueText: $Two$I believe much different my liege, allow me a few coppers
-      and I shall go out and spread your name across the land, our allies are our
-      greatest strengths.
-    Position: {x: 4254, y: 199}
-  - NodeGUID: 220359b9-5b39-43fd-b3c4-aee77bd0b385
-    DialogueText: $One$Who shall it be my liege, the land or the people.
-    Position: {x: 5349, y: 199}
+    DialogueText: $Two$Demands...?! I simply wish to travel to a nearby village to
+      preach the words of the church.
+    Position: {x: 3223, y: 199}
   - NodeGUID: 018f3c0d-3f10-496a-8af5-ffdc6e13f07c
-    DialogueText: You,Land,The Land
-    Position: {x: 5838, y: 155}
-  - NodeGUID: 1730d208-71fe-4215-8380-9a4d31a45794
-    DialogueText: $Narrate$And so the young ruler made their first choice, to rule
-      amongst the people.
-    Position: {x: 6223, y: 253}
-  - NodeGUID: 06cc25c2-3c0a-4b81-bfe0-e6eb3c041276
-    DialogueText: $Narrate$And so the young ruler made their first choice, to expand
-      and conquer.
-    Position: {x: 6224, y: 155}
+    DialogueText: No,N,Never,Stop
+    Position: {x: 4999, y: 125}
   - NodeGUID: 50fdcfdd-6a10-449c-a793-1ee011cd70b5
-    DialogueText: $One$I don't understand you my liege, please just pick me or them.
-    Position: {x: 5841, y: 366}
+    DialogueText: $One$I didn't catch that my liege, yes or no?
+    Position: {x: 5002, y: 336}
   - NodeGUID: c32e7e08-6025-46e0-b4e5-fdce7608ca8e
-    DialogueText: Him,Her,Them,People,The People
-    Position: {x: 5837, y: 253}
+    DialogueText: Yes,Yeah,Y,Go
+    Position: {x: 4998, y: 223}
+  - NodeGUID: 220359b9-5b39-43fd-b3c4-aee77bd0b385
+    DialogueText: $One$A cost seldom afforded during these times. My liege you must
+      decide, a yes or no to these frivolous acquisitions.
+    Position: {x: 3955, y: 200}
+  - NodeGUID: 1730d208-71fe-4215-8380-9a4d31a45794
+    DialogueText: $Narrate$And so the young ruler made their choice, to work along
+      the church for the sake of the people.
+    Position: {x: 5256, y: 223}
+  - NodeGUID: 06cc25c2-3c0a-4b81-bfe0-e6eb3c041276
+    DialogueText: $Narrate$And so the young ruler made their choice, to rule through
+      the crowns strength.
+    Position: {x: 5257, y: 125}
   - NodeGUID: d656e967-3203-46b6-8f8e-e9490e9f1e74
-    DialogueText: $One$Thank you my liege, you will not regret it. I shall begin
-      the expansion.
-    Position: {x: 6878, y: 154}
-  - NodeGUID: ed8b3dd8-d81a-4bd0-8630-68367006059d
-    DialogueText: $Event$,,Create Unit 5-Create Unit 6-Event:1.$Unit0$.Farm
-    Position: {x: 7491, y: 154}
-  - NodeGUID: bf919724-e4cd-4434-81c8-89ad5331286c
-    DialogueText: $Event$,,Event:2.$Unit0$/$Unit1$.Village
-    Position: {x: 7552, y: 255}
+    DialogueText: $One$Thank you my liege, our focus shall remain on maintaining
+      the crown.
+    Position: {x: 6075, y: 125}
   - NodeGUID: 6ccff438-6631-4d51-a2ac-58931fe9a131
-    DialogueText: $Two$Thank you my liege, the church also thanks you. I shall begin
-      spreading the word.
-    Position: {x: 6878, y: 255}
+    DialogueText: $Two$A truly wise ruler, the people will sing your name for the
+      ages. I shall start the preparations.
+    Position: {x: 6075, y: 226}
+  - NodeGUID: bf919724-e4cd-4434-81c8-89ad5331286c
+    DialogueText: $Event$,,Event:3.$Unit1$.Village
+    Position: {x: 6807, y: 226}
+  - NodeGUID: ed8b3dd8-d81a-4bd0-8630-68367006059d
+    DialogueText: $Event$,,Event:2.$Unit0$.Farm
+    Position: {x: 6806, y: 123}
   ExposedProperties: []
   CommentBlockData: []

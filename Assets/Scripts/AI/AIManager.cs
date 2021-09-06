@@ -54,21 +54,22 @@ public class AIManager : MonoBehaviour
     public void Initialise()
     {
         Initialised = true;
-        triggerLoop = 4;
-        InvokeRepeating("TriggerEvents", 5f, 15f);
+        triggerLoop = 5;
+        InvokeRepeating("TriggerEvents", 2.5f, 10f);
     }
     int triggerLoop; void TriggerEvents()
     {
         if (PCGScript.gameManagerScript.Paused || PCGScript.gameManagerScript.Dialogue || PCGScript.gameManagerScript.saveData.currentEvents.Count > 3) { triggerLoop = 0; return; }
-        else if (triggerLoop < Random.Range(3, 6)) triggerLoop++;
+        else if (triggerLoop < Random.Range(3, 5)) triggerLoop++;
         else
         {
             Debug.Log("Trigger Event");
-            if (PCGScript.gameManagerScript.saveData.Events.Count != 0)
+            if (PCGScript.gameManagerScript.saveData.Events.Count != 0 && !PCGScript.gameManagerScript.saveData.currentEvents.Contains(0) && !PCGScript.gameManagerScript.saveData.currentEvents.Contains(1) && !PCGScript.gameManagerScript.saveData.currentEvents.Contains(2) && !PCGScript.gameManagerScript.saveData.currentEvents.Contains(4))
             {
                 triggerLoop = 0;
                 CreateEvent(true, PCGScript.gameManagerScript.saveData.Events[Random.Range(0, PCGScript.gameManagerScript.saveData.Events.Count)]);
             }
+            else triggerLoop = 2;
         }
     }
     // Only happens when a New Game is created.
@@ -166,6 +167,20 @@ public class AIManager : MonoBehaviour
                 PCGScript.gameManagerScript.saveData.Portraits.Add(availableKnightIcons[random]);
                 availableKnightIcons.Remove(availableKnightIcons[random]);
                 Unit.GetComponent<unitManager>().Schedule = "Patrol Home";
+
+                if (isAlly)
+                {
+                    for (int i = 0; i < PCGScript.gameManagerScript.saveData.Allies.Count; i++)
+                    {
+                        if (PCGScript.gameManagerScript.saveData.Allies[i] && PCGScript.gameManagerScript.saveData.Titles[i] == "The Thrones Hand")
+                        {
+                            PCGScript.gameManagerScript.saveData.Events.Add(1);
+                            PCGScript.gameManagerScript.saveData.eventsPeople.Add("Event:1. " + i + "/" + (Units.childCount - 1));
+                            PCGScript.gameManagerScript.saveData.EventsX.Add(Mathf.RoundToInt(Buildings.GetChild(PCGScript.gameManagerScript.saveData.Castle).position.x));
+                            PCGScript.gameManagerScript.saveData.EventsY.Add(Mathf.RoundToInt(Buildings.GetChild(PCGScript.gameManagerScript.saveData.Castle).position.z));
+                        }
+                    }
+                }
             }
             else if (whatUnit == 4)
             {
@@ -200,8 +215,17 @@ public class AIManager : MonoBehaviour
                 Name = CreateName();
                 Unit.GetComponent<unitManager>().Name = Name;
                 PCGScript.gameManagerScript.saveData.Names.Add(Name);
-                Unit.GetComponent<unitManager>().Title = "Peasant";
-                PCGScript.gameManagerScript.saveData.Titles.Add("Peasant");
+                if (whatUnit == 7)
+                {
+                    Unit.GetComponent<unitManager>().Schedule = "Patrol Home";
+                    Unit.GetComponent<unitManager>().Title = "Warrior";
+                    PCGScript.gameManagerScript.saveData.Titles.Add("Warrior");
+                }
+                else
+                {
+                    Unit.GetComponent<unitManager>().Title = "Peasant";
+                    PCGScript.gameManagerScript.saveData.Titles.Add("Peasant");
+                }
                 // Updates Portrait
                 int random = Random.Range(0, availableOtherIcons.Count);
                 Unit.GetComponent<unitManager>().Portrait = availableOtherIcons[random];
@@ -209,6 +233,7 @@ public class AIManager : MonoBehaviour
                 availableOtherIcons.Remove(availableOtherIcons[random]);
                 if (whatUnit == 5) Unit.GetComponent<unitManager>().Schedule = "Gather Resources";
                 if (whatUnit == 6) Unit.GetComponent<unitManager>().Schedule = "Gather Mine";
+                
 
             }
             // Else make enemies and other AI (need to test FOW and no pointer etc)

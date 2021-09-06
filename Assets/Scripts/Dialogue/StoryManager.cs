@@ -19,6 +19,12 @@ public class StoryManager : MonoBehaviour
     public Transform Events;
     public List<GameObject> dialogueTextPrefabs;
 
+    public GameObject endObject;
+
+    void Start()
+    {
+        if (PCGScript.gameManagerScript.saveData.Events.Count == 0 && PCGScript.gameManagerScript.saveData.currentEvents.Count == 0 && PCGScript.gameManagerScript.saveData.Name != "") endObject.SetActive(true);
+    }
     public IEnumerator createEvent(bool newEvent, int whichEvent)
     {
         yield return new WaitUntil(() => !PCGScript.gameManagerScript.Dialogue);
@@ -30,7 +36,7 @@ public class StoryManager : MonoBehaviour
         }
         // If that event has characters then call it and update their positions.
         Vector3 eventPosition = new Vector3(); string[] units = new string[] { };
-        for (int i = 0; i < PCGScript.gameManagerScript.saveData.currentEvents.Count; i++)
+        for (int i = 0; i < PCGScript.gameManagerScript.saveData.eventsPeople.Count; i++)
         {
             if (PCGScript.gameManagerScript.saveData.eventsPeople[i].Contains("Event:" + whichEvent + "."))
             {
@@ -56,7 +62,7 @@ public class StoryManager : MonoBehaviour
                         if (PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Model.transform.position.x != PCGScript.gameManagerScript.saveData.EventsX[i] || PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Model.transform.position.z != PCGScript.gameManagerScript.saveData.EventsY[i])
                         {
                             yield return new WaitUntil(() => !PCGScript.gameManagerScript.Dialogue);
-                            yield return new WaitUntil(() => PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Schedule == "" || PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Schedule == "Event");
+                            yield return new WaitUntil(() => PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Schedule == "" || PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Schedule == "Event" || PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Schedule.Contains("Patrol"));
                             PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Schedule = "Travel Building " + whichBuilding;
                             PCGScript.gameManagerScript.saveData.Schedules[int.Parse(units[x])] = "Travel Building " + whichBuilding;
                         }
@@ -70,7 +76,7 @@ public class StoryManager : MonoBehaviour
                         if (PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Model.transform.position.x != PCGScript.gameManagerScript.saveData.EventsX[i] || PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Model.transform.position.z != PCGScript.gameManagerScript.saveData.EventsY[i])
                         {
                             yield return new WaitUntil(() => !PCGScript.gameManagerScript.Dialogue);
-                            yield return new WaitUntil(() => PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Schedule == "" || PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Schedule == "Event");
+                            yield return new WaitUntil(() => PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Schedule == "" || PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Schedule == "Event" || PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Schedule.Contains("Patrol"));
                             PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Schedule = "Travel Location " + PCGScript.gameManagerScript.saveData.EventsX[i] + "," + PCGScript.gameManagerScript.saveData.EventsY[i];
                             PCGScript.gameManagerScript.saveData.Schedules[int.Parse(units[x])] = "Travel Location " + PCGScript.gameManagerScript.saveData.EventsX[i] + "," + PCGScript.gameManagerScript.saveData.EventsY[i];
                         }
@@ -82,7 +88,7 @@ public class StoryManager : MonoBehaviour
                     yield return new WaitUntil(() => !PCGScript.gameManagerScript.Dialogue);
                     yield return new WaitUntil(() => PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Model.transform.position.x == PCGScript.gameManagerScript.saveData.EventsX[i] &&
                                                      PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Model.transform.position.z == PCGScript.gameManagerScript.saveData.EventsY[i]);
-                    yield return new WaitUntil(() => PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Schedule == "" || PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Schedule == "Event");
+                    yield return new WaitUntil(() => PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Schedule == "" || PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Schedule == "Event" || PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Schedule.Contains("Patrol"));
                     PCGScript.AIManagerScript.Units.GetChild(int.Parse(units[x])).GetComponent<unitManager>().Schedule = "Event";
                     PCGScript.gameManagerScript.saveData.Schedules[int.Parse(units[x])] = "Event";
                 }
@@ -227,6 +233,7 @@ public class StoryManager : MonoBehaviour
         //Dialogue.transform.GetChild(2).GetChild(0).GetChild(0).GetComponent<RectTransform>().localPosition = new Vector2(0, 0);
         LayoutRebuilder.ForceRebuildLayoutImmediate(Dialogue.transform.GetChild(2).GetChild(0).GetComponent<RectTransform>());
         Dialogue.SetActive(false);
+        if (PCGScript.gameManagerScript.saveData.Events.Count == 0 && PCGScript.gameManagerScript.saveData.currentEvents.Count == 0) endObject.SetActive(true);
     }
     string UpdateString(string tempString, List<unitManager> Units)
     {
@@ -324,7 +331,7 @@ public class StoryManager : MonoBehaviour
             }
             // Loops to the next dialogue option automatically.
             revealText = false; stopwatch.Reset();
-            float t = 0; while (t < 0.5f)
+            float t = 0; while (t < 1f)
             {
                 if (revealText) break;
                 t += Time.deltaTime;
@@ -350,7 +357,7 @@ public class StoryManager : MonoBehaviour
             yield return new WaitForSeconds(1f);
             revealText = false; stopwatch.Reset();
             // Loops to the next dialogue option automatically.
-            float t = 0; while (t < 0.5f)
+            float t = 0; while (t < 1f)
             {
                 if (revealText) break;
                 t += Time.deltaTime;
@@ -408,6 +415,11 @@ public class StoryManager : MonoBehaviour
 
                             PCGScript.gameManagerScript.saveData.EventsX.Add(Mathf.RoundToInt(PCGScript.AIManagerScript.Buildings.GetChild(whichFarm).position.x));
                             PCGScript.gameManagerScript.saveData.EventsY.Add(Mathf.RoundToInt(PCGScript.AIManagerScript.Buildings.GetChild(whichFarm).position.z));
+                        }
+                        else if (eventConditions[2] == "Castle")
+                        {
+                            PCGScript.gameManagerScript.saveData.EventsX.Add(Mathf.RoundToInt(PCGScript.AIManagerScript.Buildings.GetChild(PCGScript.gameManagerScript.saveData.Castle).position.x));
+                            PCGScript.gameManagerScript.saveData.EventsY.Add(Mathf.RoundToInt(PCGScript.AIManagerScript.Buildings.GetChild(PCGScript.gameManagerScript.saveData.Castle).position.z));
                         }
                     }
                 }
